@@ -1,0 +1,1001 @@
+id,name,category,priceTier,neighborhood,open,close,avgRating,goodForKids
+1,"Schmeler, West and Weissnat",Thai,Expensive,Inwood,7:00,19:00,3.4,1
+2,Metz-Smith,Vegetarian,Moderate,Inwood,9:00,22:00,4.8,0
+3,Renner-Berge,Italian,Moderate,Fort George,8:00,21:00,3.8,0
+4,"Collins, Carroll and Will",Italian,Expensive,Little Italy,9:00,21:00,2.2,1
+5,Stehr Group,Thai,Expensive,Koreatown,8:00,22:00,2.3,0
+6,"Daniel, Price and Balistreri",Spanish,Moderate,Chelsea,7:00,18:00,3.5,1
+7,Lubowitz-Bahringer,Korean,Expensive,Fort George,8:00,20:00,4.1,0
+8,Nolan Group,Japanese,Expensive,Inwood,8:00,19:00,4.7,1
+9,Fadel and Sons,Italian,Expensive,Koreatown,9:00,20:00,1.5,1
+10,McCullough-Cronin,Seafood,Expensive,Fort George,8:00,22:00,4.1,0
+11,"Cassin, Mertz and Rodriguez",Chinese,Cheap,Times Square,8:00,22:00,1.7,1
+12,Cremin LLC,Seafood,Cheap,Upper Manhattan,9:00,22:00,1.3,1
+13,Tromp-Yost,Chinese,Moderate,Chelsea,10:00,20:00,4.6,0
+14,"Dicki, Schuppe and Erdman",Carribean,Cheap,Little Italy,9:00,18:00,3.3,0
+15,"Beahan, Ritchie and Wuckert",Vegetarian,Cheap,West Harlem,9:00,20:00,2.6,0
+16,Dach-Bins,Seafood,Expensive,Chelsea,10:00,22:00,4.4,1
+17,"Murphy, Turcotte and Mueller",Italian,Cheap,Times Square,9:00,20:00,4.5,1
+18,Conroy Inc,Chinese,Cheap,West Harlem,7:00,19:00,4.5,1
+19,Mann-Klein,Seafood,Cheap,Marble Hill,10:00,21:00,2.4,1
+20,Streich-Ortiz,Chinese,Expensive,Upper Manhattan,8:00,20:00,2.2,1
+21,"Lemke, McCullough and Dach",Italian,Expensive,Chelsea,10:00,20:00,1.6,0
+22,"Hackett, Hermiston and Romaguera",Chinese,Moderate,Upper Manhattan,8:00,18:00,3.9,1
+23,Buckridge-Upton,Carribean,Moderate,Koreatown,9:00,20:00,2.1,0
+24,"Wilkinson, Wunsch and Tromp",Seafood,Expensive,Koreatown,9:00,18:00,2.3,1
+25,Roob-Balistreri,Thai,Cheap,Inwood,7:00,22:00,4.8,1
+26,Davis LLC,Korean,Moderate,Little Italy,10:00,20:00,1.4,0
+27,Ortiz LLC,Carribean,Expensive,Koreatown,9:00,21:00,4.9,0
+28,"Lakin, Rath and Bahringer",Spanish,Expensive,Times Square,7:00,18:00,3.9,1
+29,"Hilpert, Hackett and Runolfsdottir",Vegetarian,Cheap,Times Square,9:00,22:00,3.4,1
+30,Pfannerstill-Conroy,Italian,Moderate,Chelsea,7:00,18:00,1.4,1
+31,"Haag, Mraz and Ruecker",Italian,Expensive,Marble Hill,11:00,20:00,4.2,1
+32,"Schmeler, O'Hara and Feil",Korean,Cheap,Chelsea,7:00,19:00,3.3,1
+33,"Stiedemann, Rogahn and Heidenreich",Spanish,Cheap,West Harlem,11:00,19:00,2.1,1
+34,Walter and Sons,Mexican,Cheap,Fort George,7:00,22:00,3.0,1
+35,Emard Group,Japanese,Cheap,Inwood,9:00,18:00,4.7,0
+36,"Goyette, Will and Kohler",Mexican,Moderate,Koreatown,7:00,21:00,3.0,0
+37,Schultz LLC,Seafood,Cheap,Times Square,7:00,19:00,3.3,0
+38,Boyer and Sons,Seafood,Moderate,Chelsea,11:00,18:00,1.5,0
+39,Jast LLC,Italian,Cheap,Upper Manhattan,7:00,19:00,1.0,0
+40,O'Connell-Buckridge,Carribean,Expensive,Fort George,10:00,19:00,1.8,1
+41,Kihn-Frami,Japanese,Moderate,Times Square,11:00,22:00,3.4,1
+42,"Reynolds, Kihn and Nicolas",Japanese,Expensive,Chelsea,11:00,19:00,3.2,0
+43,Collier-Hirthe,Korean,Expensive,Times Square,10:00,20:00,2.6,0
+44,Adams-Dibbert,Japanese,Cheap,West Harlem,11:00,21:00,4.7,0
+45,Gibson and Sons,Spanish,Expensive,Koreatown,7:00,19:00,1.9,1
+46,McLaughlin-Nader,Korean,Expensive,Little Italy,10:00,20:00,3.1,0
+47,"Wisoky, Aufderhar and Miller",Japanese,Cheap,Times Square,8:00,18:00,4.2,1
+48,Kunze LLC,Vegetarian,Cheap,Inwood,8:00,18:00,2.3,0
+49,Murazik Group,Chinese,Moderate,Marble Hill,7:00,19:00,1.1,0
+50,Hudson Inc,Spanish,Expensive,Little Italy,8:00,21:00,1.3,0
+51,McClure-Sipes,Korean,Cheap,Chelsea,7:00,20:00,2.4,0
+52,"Sporer, Mayer and Monahan",Mexican,Expensive,Chelsea,9:00,20:00,3.3,0
+53,Herzog-Rowe,Japanese,Expensive,Little Italy,7:00,19:00,4.2,1
+54,Feeney and Sons,Vegetarian,Cheap,Inwood,10:00,22:00,2.8,1
+55,Cormier Inc,Japanese,Expensive,Times Square,10:00,20:00,2.4,0
+56,Jakubowski and Sons,Thai,Expensive,Times Square,11:00,19:00,3.8,1
+57,Russel-Ebert,Vegetarian,Moderate,Inwood,7:00,21:00,3.3,0
+58,Lesch-Graham,Mexican,Moderate,Upper Manhattan,7:00,21:00,1.0,1
+59,O'Connell LLC,Chinese,Cheap,Upper Manhattan,9:00,19:00,4.4,0
+60,"Altenwerth, Homenick and Ziemann",Chinese,Cheap,Upper Manhattan,10:00,22:00,2.8,0
+61,VonRueden-Bayer,Chinese,Expensive,Koreatown,7:00,19:00,3.6,1
+62,"Veum, Auer and Dickens",Thai,Moderate,Little Italy,7:00,19:00,1.4,1
+63,Crist-Lebsack,Spanish,Cheap,Chelsea,9:00,19:00,3.0,0
+64,Welch LLC,Thai,Moderate,Chelsea,11:00,22:00,2.4,1
+65,Hudson Group,Korean,Moderate,Marble Hill,11:00,20:00,4.4,1
+66,"Roob, Jerde and Nikolaus",Spanish,Cheap,Upper Manhattan,9:00,20:00,1.3,0
+67,Bruen LLC,Carribean,Moderate,Little Italy,11:00,18:00,3.4,0
+68,Bergstrom LLC,Vegetarian,Expensive,Times Square,9:00,22:00,1.5,0
+69,Gaylord Group,Thai,Moderate,Times Square,7:00,20:00,1.6,0
+70,Medhurst-Walter,Carribean,Cheap,Little Italy,10:00,20:00,2.9,1
+71,"Metz, DuBuque and Kohler",Chinese,Expensive,Upper Manhattan,10:00,18:00,3.4,0
+72,"Hickle, Wilderman and Kling",Spanish,Expensive,Koreatown,7:00,21:00,4.5,1
+73,"Ondricka, Smitham and Carter",Seafood,Cheap,Chelsea,10:00,22:00,2.6,1
+74,Lindgren LLC,Italian,Expensive,Chelsea,9:00,19:00,2.9,0
+75,"Stamm, Bayer and Prosacco",Spanish,Cheap,Little Italy,10:00,18:00,4.0,0
+76,Zulauf-Tillman,Carribean,Cheap,Upper Manhattan,10:00,18:00,4.1,0
+77,Littel Group,Chinese,Moderate,Chelsea,8:00,18:00,3.7,1
+78,Zemlak and Sons,Chinese,Moderate,Chelsea,8:00,21:00,2.4,1
+79,Wilderman-Emmerich,Carribean,Cheap,Inwood,8:00,19:00,2.4,1
+80,"Anderson, Ondricka and Swift",Thai,Expensive,Little Italy,8:00,21:00,3.6,1
+81,Rohan-Kshlerin,Korean,Moderate,Koreatown,11:00,20:00,3.2,0
+82,"D'Amore, Torphy and Stiedemann",Carribean,Cheap,Marble Hill,8:00,19:00,4.7,1
+83,Weimann-Russel,Korean,Cheap,Times Square,8:00,19:00,4.9,0
+84,Murphy-Schumm,Mexican,Expensive,Fort George,11:00,21:00,2.6,0
+85,Bechtelar-Walter,Thai,Expensive,Inwood,11:00,21:00,3.4,1
+86,"Mills, Williamson and Hyatt",Italian,Expensive,Upper Manhattan,9:00,19:00,1.9,0
+87,Olson-Farrell,Carribean,Expensive,Upper Manhattan,8:00,21:00,3.4,1
+88,"Bartell, Skiles and Hackett",Carribean,Cheap,Fort George,7:00,21:00,1.9,1
+89,Purdy Group,Vegetarian,Cheap,Little Italy,8:00,19:00,2.6,0
+90,"Schinner, Rowe and Metz",Thai,Cheap,Little Italy,8:00,22:00,2.0,0
+91,"Durgan, Rohan and Kuhn",Chinese,Cheap,Fort George,8:00,22:00,4.7,1
+92,Hintz-Weimann,Vegetarian,Cheap,Koreatown,11:00,18:00,1.8,1
+93,Hettinger Inc,Mexican,Cheap,Chelsea,11:00,20:00,2.7,0
+94,"Moen, Windler and Emard",Thai,Expensive,Times Square,9:00,18:00,4.1,0
+95,"Roberts, Deckow and Baumbach",Chinese,Moderate,Fort George,11:00,19:00,3.6,0
+96,"Stanton, Stanton and Huel",Carribean,Moderate,Chelsea,7:00,20:00,2.7,1
+97,Mosciski-Greenholt,Japanese,Expensive,Koreatown,11:00,22:00,3.1,1
+98,Reichel-Runolfsdottir,Seafood,Cheap,Marble Hill,11:00,21:00,3.5,1
+99,Stokes and Sons,Thai,Cheap,Fort George,7:00,22:00,2.2,1
+100,Larson and Sons,Carribean,Expensive,Chelsea,9:00,20:00,1.4,0
+101,"Kreiger, Feeney and Gerhold",Thai,Expensive,Koreatown,8:00,18:00,1.4,0
+102,Larson-Quigley,Spanish,Moderate,Marble Hill,11:00,22:00,1.8,0
+103,Huel-Hermiston,Carribean,Moderate,Inwood,9:00,22:00,3.4,1
+104,Kunze LLC,Korean,Cheap,Koreatown,7:00,18:00,4.1,1
+105,"Bailey, Hansen and Padberg",Seafood,Moderate,Chelsea,8:00,22:00,2.4,0
+106,Tremblay and Sons,Spanish,Moderate,Koreatown,8:00,18:00,2.1,0
+107,Leuschke-Funk,Carribean,Cheap,Fort George,7:00,19:00,4.2,0
+108,Metz-Ebert,Italian,Cheap,Fort George,11:00,18:00,3.3,0
+109,Lubowitz LLC,Mexican,Cheap,Upper Manhattan,10:00,22:00,3.7,1
+110,"Sporer, Reynolds and Brakus",Japanese,Moderate,Times Square,11:00,21:00,4.7,1
+111,"Braun, Senger and Spencer",Korean,Moderate,West Harlem,9:00,20:00,4.8,0
+112,Hermann Group,Italian,Expensive,Marble Hill,11:00,21:00,1.3,1
+113,"Crona, Bernhard and Kub",Chinese,Moderate,Little Italy,9:00,18:00,1.1,1
+114,Berge-Ruecker,Chinese,Cheap,Koreatown,9:00,22:00,4.7,0
+115,"Beier, Rempel and Stanton",Korean,Expensive,Inwood,8:00,20:00,4.2,1
+116,"Kassulke, Rau and Hartmann",Chinese,Moderate,Chelsea,11:00,19:00,2.7,0
+117,"Bins, Wuckert and Nikolaus",Spanish,Moderate,Times Square,8:00,22:00,1.6,0
+118,"Kovacek, Dach and Labadie",Seafood,Moderate,West Harlem,11:00,20:00,4.1,0
+119,Wunsch-Sawayn,Mexican,Expensive,Marble Hill,8:00,21:00,1.5,1
+120,Gorczany-Rau,Spanish,Moderate,Fort George,9:00,18:00,3.0,0
+121,Mayert-Boehm,Vegetarian,Cheap,Inwood,11:00,21:00,4.0,0
+122,Sanford Group,Korean,Moderate,West Harlem,9:00,21:00,2.6,0
+123,Schaefer Group,Seafood,Cheap,Marble Hill,8:00,18:00,3.3,0
+124,"O'Keefe, Marquardt and Rippin",Carribean,Cheap,Koreatown,10:00,22:00,2.3,0
+125,Schultz-Hilll,Mexican,Cheap,Fort George,7:00,18:00,4.5,0
+126,Quitzon-Christiansen,Chinese,Cheap,Inwood,11:00,19:00,3.7,0
+127,Renner and Sons,Mexican,Moderate,Little Italy,7:00,19:00,3.5,1
+128,Goldner-King,Carribean,Moderate,Inwood,10:00,18:00,2.6,0
+129,Ankunding and Sons,Japanese,Moderate,Marble Hill,7:00,18:00,3.1,0
+130,"O'Keefe, Ruecker and Fisher",Italian,Cheap,Little Italy,7:00,22:00,2.1,0
+131,Daniel Inc,Korean,Moderate,Fort George,9:00,18:00,1.1,0
+132,Nikolaus LLC,Seafood,Expensive,West Harlem,7:00,21:00,1.3,1
+133,"Keebler, Sawayn and Hansen",Italian,Expensive,Times Square,9:00,18:00,4.5,0
+134,Koss Group,Seafood,Moderate,Fort George,11:00,18:00,2.7,0
+135,"Boehm, Schmeler and Feest",Vegetarian,Expensive,Fort George,10:00,22:00,1.2,0
+136,Schaden-Funk,Mexican,Moderate,West Harlem,9:00,21:00,4.1,0
+137,Batz LLC,Korean,Cheap,Inwood,9:00,22:00,4.9,0
+138,Bradtke-Schneider,Italian,Moderate,Inwood,11:00,21:00,4.9,0
+139,"Graham, Rogahn and Renner",Vegetarian,Expensive,Inwood,11:00,19:00,3.7,1
+140,Runolfsson-Ryan,Seafood,Moderate,Chelsea,8:00,20:00,3.9,1
+141,"Lynch, Strosin and O'Reilly",Vegetarian,Cheap,Times Square,10:00,20:00,2.7,1
+142,"Beahan, Will and Harris",Seafood,Expensive,Fort George,11:00,18:00,2.8,0
+143,"Pfeffer, Bergstrom and Lemke",Thai,Expensive,Marble Hill,11:00,21:00,3.5,0
+144,Bergstrom-Ryan,Chinese,Cheap,Inwood,10:00,19:00,2.7,0
+145,Grimes Group,Korean,Moderate,Times Square,7:00,21:00,4.0,1
+146,Abernathy-Jacobson,Thai,Moderate,Little Italy,9:00,19:00,4.4,1
+147,Veum-Gutkowski,Vegetarian,Moderate,Fort George,7:00,19:00,2.7,0
+148,"Fahey, Rohan and O'Hara",Mexican,Cheap,Fort George,7:00,18:00,3.4,1
+149,"Doyle, Mills and Reichert",Mexican,Moderate,West Harlem,11:00,22:00,3.3,1
+150,"McDermott, Gibson and Hyatt",Seafood,Cheap,Koreatown,10:00,19:00,4.6,0
+151,Romaguera Group,Mexican,Expensive,Times Square,10:00,21:00,4.9,0
+152,Bosco and Sons,Spanish,Cheap,Upper Manhattan,8:00,22:00,3.0,1
+153,Harvey LLC,Seafood,Cheap,Koreatown,8:00,18:00,4.8,1
+154,Ferry-Mueller,Japanese,Moderate,Little Italy,8:00,20:00,2.7,0
+155,Hessel LLC,Italian,Expensive,Fort George,9:00,20:00,1.9,1
+156,Upton LLC,Italian,Moderate,Chelsea,7:00,19:00,1.3,1
+157,Sauer-Buckridge,Korean,Moderate,Inwood,10:00,20:00,4.0,1
+158,"Torp, Feeney and Harris",Korean,Moderate,Little Italy,7:00,22:00,4.7,0
+159,Kohler-Bernier,Italian,Moderate,Upper Manhattan,9:00,22:00,4.9,1
+160,Stamm-Hoeger,Italian,Expensive,Upper Manhattan,9:00,22:00,4.4,0
+161,Schiller LLC,Japanese,Cheap,Marble Hill,11:00,19:00,4.5,1
+162,Bosco Inc,Spanish,Moderate,Marble Hill,11:00,19:00,4.0,1
+163,"Kovacek, Bradtke and Heathcote",Mexican,Expensive,Little Italy,7:00,21:00,3.5,0
+164,Mayer Inc,Japanese,Cheap,Times Square,10:00,22:00,3.2,1
+165,Dickinson Inc,Italian,Cheap,Little Italy,10:00,22:00,1.9,0
+166,"Kshlerin, Pfeffer and Ullrich",Thai,Moderate,Little Italy,10:00,20:00,4.7,0
+167,Orn LLC,Chinese,Expensive,Fort George,8:00,18:00,1.4,0
+168,Kshlerin-Ondricka,Carribean,Cheap,Little Italy,7:00,21:00,1.1,1
+169,Kessler LLC,Italian,Cheap,Upper Manhattan,9:00,21:00,4.8,1
+170,"Beatty, Ankunding and Botsford",Carribean,Moderate,Chelsea,7:00,18:00,4.2,0
+171,"Erdman, Roberts and Rowe",Italian,Expensive,Little Italy,10:00,20:00,5.0,1
+172,Kris-Greenholt,Carribean,Cheap,Chelsea,8:00,19:00,2.4,0
+173,Kihn Inc,Korean,Expensive,Koreatown,9:00,21:00,1.7,0
+174,"Walsh, Kshlerin and Stark",Chinese,Expensive,Times Square,8:00,21:00,2.2,0
+175,Denesik Inc,Thai,Cheap,Upper Manhattan,8:00,22:00,1.9,1
+176,Schuster LLC,Korean,Expensive,West Harlem,8:00,18:00,4.1,0
+177,Farrell LLC,Korean,Cheap,Little Italy,11:00,19:00,2.6,1
+178,Simonis-Hessel,Vegetarian,Expensive,Chelsea,8:00,19:00,2.1,0
+179,"Walsh, Hayes and D'Amore",Mexican,Moderate,Upper Manhattan,8:00,20:00,1.5,1
+180,Hackett-Durgan,Japanese,Expensive,Marble Hill,11:00,19:00,4.8,0
+181,"Bailey, Jones and Klocko",Chinese,Expensive,Times Square,10:00,20:00,1.8,1
+182,Hintz LLC,Mexican,Expensive,Inwood,7:00,21:00,2.0,1
+183,"Hilpert, Howell and Dooley",Carribean,Expensive,Times Square,11:00,22:00,4.6,1
+184,Dare Group,Mexican,Cheap,Upper Manhattan,8:00,18:00,4.2,0
+185,"Lowe, Schuppe and Kovacek",Seafood,Moderate,Little Italy,11:00,22:00,3.4,0
+186,"Walsh, Rempel and Raynor",Seafood,Moderate,Chelsea,8:00,20:00,2.5,1
+187,Kulas LLC,Japanese,Expensive,Koreatown,9:00,22:00,1.7,0
+188,"Homenick, Grady and Vandervort",Thai,Moderate,Little Italy,11:00,21:00,2.9,1
+189,Williamson-Strosin,Italian,Moderate,West Harlem,8:00,22:00,4.8,1
+190,Rowe-Douglas,Chinese,Expensive,Marble Hill,7:00,19:00,4.9,0
+191,McCullough and Sons,Spanish,Cheap,Inwood,8:00,22:00,4.8,0
+192,"Nader, Glover and Strosin",Mexican,Expensive,Inwood,9:00,20:00,3.8,0
+193,"Gaylord, Grady and Lemke",Chinese,Expensive,Little Italy,9:00,20:00,3.1,0
+194,Kessler-Hilpert,Carribean,Expensive,West Harlem,8:00,21:00,2.7,0
+195,"West, Predovic and Ullrich",Carribean,Expensive,Inwood,7:00,19:00,2.6,1
+196,Glover and Sons,Spanish,Moderate,Inwood,10:00,22:00,2.5,1
+197,"Stokes, Harber and Abernathy",Japanese,Moderate,Fort George,11:00,20:00,1.4,0
+198,Upton and Sons,Japanese,Moderate,Inwood,8:00,20:00,2.7,0
+199,"Koch, Balistreri and Hackett",Italian,Cheap,Marble Hill,11:00,20:00,2.8,1
+200,"Bernier, McGlynn and Rodriguez",Seafood,Cheap,Upper Manhattan,9:00,22:00,1.8,0
+201,Smith and Sons,Korean,Cheap,West Harlem,8:00,19:00,2.4,0
+202,Gusikowski-Welch,Thai,Cheap,Koreatown,9:00,19:00,4.3,0
+203,Champlin-Lang,Korean,Expensive,Upper Manhattan,11:00,22:00,3.1,0
+204,Ledner Group,Seafood,Moderate,Marble Hill,7:00,19:00,3.9,1
+205,Kessler Inc,Seafood,Cheap,Inwood,7:00,20:00,1.9,1
+206,Rippin-Sanford,Chinese,Cheap,Koreatown,9:00,19:00,3.1,0
+207,"Homenick, Hartmann and Brekke",Thai,Moderate,Times Square,7:00,19:00,4.4,0
+208,"Daniel, Mann and Klocko",Chinese,Cheap,West Harlem,10:00,20:00,4.7,0
+209,Steuber-Dibbert,Vegetarian,Moderate,Fort George,10:00,19:00,2.0,0
+210,"Runolfsson, Bernier and Nicolas",Korean,Expensive,Inwood,10:00,20:00,3.9,1
+211,Renner-Shanahan,Chinese,Moderate,Upper Manhattan,7:00,21:00,1.8,1
+212,Dibbert Group,Seafood,Expensive,Fort George,8:00,19:00,1.1,0
+213,Heathcote and Sons,Thai,Cheap,Koreatown,10:00,19:00,1.3,0
+214,Wisoky-Schimmel,Thai,Cheap,Little Italy,7:00,22:00,3.2,1
+215,"Schmidt, Ortiz and Donnelly",Seafood,Moderate,Inwood,8:00,22:00,2.5,1
+216,"Braun, Berge and Gerhold",Spanish,Expensive,Chelsea,10:00,19:00,1.4,0
+217,"Bode, White and Schimmel",Carribean,Moderate,Chelsea,11:00,19:00,3.7,0
+218,"Casper, Collier and Jacobs",Korean,Expensive,Fort George,8:00,19:00,2.3,1
+219,Borer Group,Vegetarian,Cheap,Inwood,7:00,22:00,3.4,0
+220,Homenick LLC,Seafood,Cheap,Chelsea,7:00,22:00,1.1,0
+221,Bogan and Sons,Spanish,Moderate,Little Italy,10:00,22:00,4.9,1
+222,Carroll LLC,Mexican,Expensive,West Harlem,7:00,18:00,1.2,0
+223,Johnson-Dare,Thai,Cheap,Fort George,7:00,18:00,2.9,1
+224,Feil and Sons,Chinese,Expensive,Little Italy,8:00,20:00,2.2,1
+225,Bechtelar-Bode,Vegetarian,Cheap,Marble Hill,11:00,21:00,3.9,1
+226,"Reilly, Breitenberg and Bahringer",Japanese,Expensive,Marble Hill,9:00,22:00,2.5,0
+227,Ziemann-Osinski,Seafood,Cheap,Upper Manhattan,8:00,18:00,3.5,1
+228,Gleason-Conroy,Carribean,Moderate,Times Square,9:00,20:00,3.4,1
+229,Gleason Group,Spanish,Moderate,West Harlem,8:00,22:00,2.8,0
+230,"Pouros, Hansen and Botsford",Chinese,Moderate,Chelsea,8:00,20:00,4.8,0
+231,"Wintheiser, Schaefer and Sawayn",Vegetarian,Moderate,Inwood,8:00,19:00,1.1,1
+232,Swaniawski Inc,Vegetarian,Moderate,Little Italy,10:00,22:00,3.3,1
+233,Schmeler and Sons,Seafood,Moderate,Little Italy,10:00,19:00,2.2,0
+234,Murazik-Hettinger,Seafood,Cheap,Marble Hill,8:00,21:00,4.2,0
+235,"Ankunding, Witting and Hickle",Japanese,Cheap,Koreatown,8:00,21:00,4.9,1
+236,O'Kon Inc,Spanish,Cheap,West Harlem,9:00,22:00,2.4,0
+237,Waters Group,Spanish,Cheap,Little Italy,9:00,19:00,2.7,1
+238,Christiansen Inc,Spanish,Cheap,Little Italy,9:00,20:00,2.6,1
+239,Bechtelar-Koch,Vegetarian,Expensive,Upper Manhattan,11:00,22:00,1.6,1
+240,Hane-Schowalter,Chinese,Expensive,Chelsea,10:00,21:00,4.1,1
+241,"Olson, Mann and Schroeder",Japanese,Cheap,Chelsea,10:00,21:00,4.6,0
+242,Blanda-Eichmann,Spanish,Expensive,Koreatown,10:00,19:00,3.8,0
+243,Boehm and Sons,Carribean,Cheap,Chelsea,10:00,18:00,2.3,0
+244,"Stracke, Lakin and Hartmann",Thai,Moderate,Fort George,8:00,21:00,2.3,0
+245,"Bednar, Dietrich and Walter",Seafood,Cheap,Koreatown,7:00,21:00,4.2,1
+246,Klein Inc,Japanese,Cheap,Little Italy,10:00,21:00,2.3,0
+247,Witting-Russel,Korean,Expensive,Inwood,7:00,19:00,4.7,0
+248,"Kuvalis, Windler and Hintz",Korean,Cheap,Fort George,8:00,18:00,3.8,1
+249,Kihn and Sons,Chinese,Cheap,Koreatown,11:00,21:00,1.9,1
+250,Rutherford-Bechtelar,Vegetarian,Expensive,Times Square,7:00,21:00,3.4,1
+251,Adams-Purdy,Chinese,Cheap,Little Italy,7:00,22:00,2.3,1
+252,Baumbach LLC,Spanish,Cheap,Fort George,8:00,18:00,2.9,0
+253,"Ritchie, Swift and Schuster",Thai,Expensive,Upper Manhattan,8:00,20:00,2.2,0
+254,Boehm Inc,Korean,Cheap,Little Italy,7:00,21:00,3.0,0
+255,"Rohan, Brekke and Murray",Chinese,Moderate,Marble Hill,11:00,20:00,3.7,1
+256,Rolfson Inc,Japanese,Moderate,Fort George,11:00,19:00,3.1,0
+257,"Daniel, Waters and Lemke",Thai,Moderate,Fort George,7:00,21:00,3.0,0
+258,Schuster-Dooley,Chinese,Moderate,Koreatown,8:00,21:00,4.8,1
+259,Schmidt-Aufderhar,Spanish,Cheap,Chelsea,8:00,22:00,2.6,1
+260,"Wehner, Wyman and Halvorson",Thai,Expensive,Fort George,11:00,20:00,2.9,0
+261,Dickinson-Doyle,Thai,Cheap,Marble Hill,9:00,21:00,2.2,1
+262,VonRueden-Stokes,Mexican,Expensive,Koreatown,9:00,21:00,2.4,1
+263,Ratke and Sons,Vegetarian,Moderate,Koreatown,11:00,22:00,3.5,0
+264,Veum-Gleason,Italian,Moderate,Times Square,8:00,22:00,3.3,0
+265,"Kutch, Dach and Funk",Korean,Moderate,Koreatown,9:00,21:00,2.3,1
+266,"Stamm, Pacocha and Greenfelder",Vegetarian,Cheap,Times Square,7:00,19:00,5.0,0
+267,"Beatty, Bogan and Hammes",Korean,Cheap,Koreatown,7:00,22:00,2.3,0
+268,"Lesch, Boehm and Gibson",Chinese,Cheap,Inwood,11:00,21:00,1.7,1
+269,Ankunding Inc,Seafood,Cheap,Koreatown,7:00,22:00,3.1,1
+270,"Smith, Mohr and Larson",Mexican,Cheap,Times Square,7:00,21:00,2.3,0
+271,Rolfson-Effertz,Carribean,Expensive,Inwood,10:00,21:00,3.6,0
+272,"Strosin, Parisian and Hane",Japanese,Moderate,Marble Hill,11:00,19:00,3.5,0
+273,Kiehn Inc,Spanish,Moderate,Koreatown,8:00,19:00,1.7,1
+274,"Schneider, Torp and Schoen",Korean,Expensive,Koreatown,8:00,18:00,2.2,1
+275,"VonRueden, Bode and Gleason",Korean,Expensive,Fort George,9:00,21:00,1.0,1
+276,Gutkowski-Rippin,Mexican,Expensive,Upper Manhattan,10:00,18:00,4.4,0
+277,Lockman-Schimmel,Korean,Moderate,Marble Hill,8:00,22:00,2.0,0
+278,"Adams, Okuneva and Barrows",Thai,Moderate,Upper Manhattan,11:00,22:00,3.7,0
+279,Bradtke and Sons,Thai,Expensive,Chelsea,11:00,20:00,4.7,0
+280,"Buckridge, Satterfield and Torp",Spanish,Expensive,Inwood,9:00,21:00,4.3,1
+281,"Huel, Goldner and Schuppe",Spanish,Cheap,Marble Hill,10:00,18:00,3.4,0
+282,Simonis LLC,Italian,Cheap,Chelsea,11:00,18:00,2.6,0
+283,Orn-Moore,Chinese,Expensive,West Harlem,10:00,21:00,2.4,1
+284,"Hauck, Lind and Barrows",Italian,Cheap,West Harlem,7:00,18:00,3.3,0
+285,"Beatty, Carroll and Kris",Seafood,Moderate,Marble Hill,9:00,19:00,3.7,0
+286,"Grant, Skiles and Berge",Italian,Expensive,West Harlem,7:00,22:00,3.5,0
+287,Torp LLC,Carribean,Cheap,Chelsea,10:00,18:00,3.8,1
+288,Labadie-McCullough,Thai,Expensive,Koreatown,8:00,20:00,4.3,1
+289,"Weimann, Kuhlman and Durgan",Italian,Moderate,Chelsea,9:00,20:00,4.3,0
+290,Lemke Inc,Carribean,Moderate,Inwood,9:00,22:00,2.0,1
+291,Daniel-Klein,Japanese,Cheap,Inwood,7:00,18:00,1.5,0
+292,"Sanford, Cruickshank and Boehm",Italian,Expensive,Little Italy,11:00,18:00,4.0,0
+293,"Hodkiewicz, VonRueden and Streich",Carribean,Cheap,Little Italy,9:00,20:00,2.7,1
+294,Heller-Frami,Thai,Expensive,Upper Manhattan,9:00,22:00,2.9,0
+295,"Nienow, Beahan and Oberbrunner",Carribean,Cheap,Little Italy,7:00,19:00,3.1,0
+296,"Gleason, White and Ziemann",Spanish,Cheap,Fort George,10:00,20:00,2.7,1
+297,West-Ernser,Chinese,Moderate,Chelsea,9:00,22:00,2.5,0
+298,Greenfelder Inc,Chinese,Cheap,Inwood,10:00,20:00,2.2,0
+299,Roberts Group,Spanish,Expensive,Little Italy,9:00,20:00,4.9,0
+300,"O'Keefe, Nicolas and Sanford",Chinese,Cheap,Marble Hill,10:00,20:00,3.9,0
+301,Emmerich-Grimes,Vegetarian,Moderate,Inwood,9:00,22:00,3.6,0
+302,Berge Group,Mexican,Cheap,Inwood,10:00,22:00,4.1,1
+303,Ryan-Upton,Korean,Expensive,Marble Hill,7:00,19:00,1.7,1
+304,Mayer-Conroy,Spanish,Cheap,Upper Manhattan,11:00,21:00,1.8,0
+305,Baumbach-Schinner,Seafood,Expensive,Fort George,8:00,22:00,1.8,0
+306,"O'Connell, Ondricka and Ward",Spanish,Cheap,Chelsea,10:00,21:00,4.8,0
+307,Vandervort LLC,Seafood,Moderate,West Harlem,11:00,22:00,1.6,0
+308,Steuber LLC,Seafood,Moderate,Fort George,11:00,20:00,1.7,1
+309,Kassulke LLC,Chinese,Expensive,Koreatown,8:00,18:00,3.8,0
+310,Grant-Murphy,Spanish,Expensive,Koreatown,10:00,21:00,2.5,1
+311,Fisher Group,Korean,Expensive,West Harlem,8:00,20:00,1.1,0
+312,"Senger, Buckridge and Romaguera",Vegetarian,Expensive,Times Square,7:00,19:00,2.8,1
+313,Schroeder Group,Seafood,Moderate,Chelsea,10:00,21:00,1.1,0
+314,"Dietrich, Torp and Eichmann",Vegetarian,Cheap,Times Square,8:00,21:00,2.6,1
+315,Ferry-Bednar,Italian,Moderate,Fort George,10:00,18:00,4.9,0
+316,Goldner LLC,Thai,Cheap,West Harlem,8:00,21:00,4.2,1
+317,O'Connell Group,Spanish,Expensive,West Harlem,9:00,21:00,3.2,0
+318,"Upton, Rutherford and Thiel",Seafood,Moderate,Fort George,7:00,18:00,2.7,1
+319,Pouros and Sons,Carribean,Moderate,Little Italy,8:00,19:00,4.8,0
+320,Thompson-Dickinson,Korean,Expensive,Inwood,7:00,21:00,4.3,0
+321,Boyer-MacGyver,Italian,Expensive,Inwood,11:00,19:00,4.7,1
+322,Stehr Group,Vegetarian,Moderate,Fort George,11:00,20:00,4.1,0
+323,"Orn, Dicki and Kiehn",Carribean,Expensive,Little Italy,9:00,20:00,1.8,0
+324,"Rempel, Yost and Turcotte",Vegetarian,Expensive,Chelsea,8:00,22:00,3.3,1
+325,Goyette Inc,Japanese,Moderate,Chelsea,7:00,18:00,3.6,1
+326,Collier-Medhurst,Korean,Moderate,Koreatown,7:00,20:00,2.5,1
+327,Toy Group,Seafood,Cheap,Upper Manhattan,10:00,22:00,2.5,0
+328,Keeling Inc,Mexican,Cheap,Little Italy,11:00,20:00,2.6,0
+329,Bosco-Keeling,Thai,Moderate,Inwood,10:00,22:00,4.1,1
+330,Leffler-Crist,Chinese,Cheap,West Harlem,11:00,21:00,2.0,0
+331,Schumm-Goyette,Spanish,Cheap,West Harlem,9:00,19:00,3.0,0
+332,"Daniel, Dibbert and Wiegand",Japanese,Cheap,Koreatown,9:00,18:00,4.7,0
+333,Pagac and Sons,Chinese,Moderate,Chelsea,10:00,19:00,2.2,1
+334,Huel and Sons,Mexican,Expensive,Fort George,9:00,18:00,2.4,0
+335,Kihn Group,Seafood,Expensive,West Harlem,11:00,20:00,1.5,1
+336,Morar Inc,Korean,Cheap,West Harlem,9:00,20:00,2.6,0
+337,Hodkiewicz-Lynch,Carribean,Moderate,Fort George,11:00,21:00,4.8,0
+338,Littel-Schulist,Italian,Moderate,Inwood,9:00,20:00,2.4,1
+339,Cole Group,Korean,Expensive,Upper Manhattan,9:00,20:00,4.0,1
+340,Batz-Mohr,Vegetarian,Moderate,Upper Manhattan,11:00,21:00,1.2,0
+341,McDermott-Harris,Japanese,Expensive,Upper Manhattan,10:00,20:00,2.2,0
+342,Simonis Inc,Spanish,Moderate,Little Italy,8:00,22:00,1.9,0
+343,Satterfield Group,Vegetarian,Moderate,Chelsea,9:00,19:00,2.1,0
+344,Reinger LLC,Thai,Expensive,Fort George,7:00,19:00,2.4,1
+345,Kassulke-Wisoky,Italian,Moderate,Inwood,8:00,22:00,1.0,0
+346,"Lang, Dietrich and Denesik",Spanish,Cheap,Marble Hill,9:00,21:00,1.9,1
+347,Jacobi and Sons,Carribean,Moderate,Times Square,11:00,19:00,3.1,0
+348,Moore-Luettgen,Mexican,Expensive,West Harlem,11:00,21:00,4.4,0
+349,Stracke Group,Spanish,Expensive,West Harlem,8:00,21:00,4.4,0
+350,Schmidt Inc,Vegetarian,Moderate,Fort George,11:00,18:00,2.5,1
+351,Hirthe LLC,Thai,Expensive,Marble Hill,7:00,19:00,3.0,0
+352,Kshlerin and Sons,Thai,Moderate,Chelsea,7:00,21:00,2.9,0
+353,Torphy Inc,Italian,Expensive,West Harlem,10:00,22:00,4.1,0
+354,"O'Conner, Cole and Bradtke",Japanese,Moderate,Chelsea,10:00,22:00,4.9,0
+355,Kohler-McDermott,Carribean,Expensive,Times Square,9:00,20:00,1.4,1
+356,Moore Group,Vegetarian,Cheap,Marble Hill,7:00,22:00,1.3,0
+357,Block and Sons,Seafood,Cheap,Koreatown,9:00,22:00,2.1,0
+358,Zemlak-Dietrich,Vegetarian,Moderate,Inwood,7:00,22:00,2.1,0
+359,"Ullrich, Dietrich and Wunsch",Vegetarian,Moderate,Chelsea,9:00,22:00,1.6,1
+360,"Balistreri, Turcotte and Torphy",Chinese,Cheap,Chelsea,7:00,21:00,1.7,1
+361,"Bergnaum, Hickle and Ebert",Korean,Cheap,Inwood,9:00,18:00,2.0,1
+362,"Wisozk, Deckow and Mosciski",Chinese,Cheap,Chelsea,11:00,22:00,2.5,1
+363,Gottlieb-Cartwright,Mexican,Moderate,Little Italy,9:00,20:00,2.3,1
+364,"Heathcote, Spinka and Howe",Spanish,Expensive,Koreatown,11:00,21:00,4.1,1
+365,Balistreri-Grant,Carribean,Moderate,Marble Hill,10:00,19:00,4.8,0
+366,Kling-Dare,Thai,Moderate,Inwood,11:00,22:00,4.9,0
+367,"Cassin, Dooley and Johnston",Chinese,Cheap,Upper Manhattan,8:00,18:00,4.9,1
+368,Lueilwitz-Halvorson,Japanese,Cheap,Chelsea,8:00,19:00,3.5,0
+369,"Ebert, Armstrong and Mertz",Seafood,Cheap,Chelsea,7:00,21:00,2.7,0
+370,Walker LLC,Japanese,Moderate,Times Square,11:00,18:00,3.5,1
+371,Legros-Kozey,Japanese,Cheap,Marble Hill,11:00,21:00,3.5,1
+372,Cassin-Cruickshank,Mexican,Moderate,Inwood,10:00,20:00,1.8,1
+373,Bins-Predovic,Spanish,Moderate,West Harlem,9:00,22:00,4.4,0
+374,Dickens LLC,Mexican,Cheap,Fort George,7:00,18:00,2.9,1
+375,"Tromp, Dooley and Greenfelder",Japanese,Cheap,Little Italy,10:00,18:00,5.0,1
+376,Harber-Rogahn,Korean,Expensive,Times Square,8:00,19:00,4.1,1
+377,"Will, Stroman and Lowe",Chinese,Expensive,Upper Manhattan,8:00,22:00,4.2,0
+378,Quitzon-Doyle,Korean,Moderate,Inwood,8:00,21:00,3.6,0
+379,Hettinger-Zemlak,Spanish,Expensive,Chelsea,9:00,18:00,1.6,1
+380,"Rippin, Daugherty and Gibson",Korean,Expensive,Koreatown,11:00,18:00,3.1,0
+381,Schinner-Gulgowski,Korean,Expensive,Inwood,11:00,18:00,2.5,1
+382,"Heathcote, Kulas and Wyman",Carribean,Expensive,Fort George,7:00,21:00,2.6,0
+383,Ondricka-Boyer,Thai,Moderate,Fort George,9:00,20:00,4.5,0
+384,Bahringer and Sons,Mexican,Expensive,Times Square,8:00,19:00,4.6,1
+385,Grant-Stark,Carribean,Moderate,Little Italy,7:00,21:00,2.8,1
+386,Schaden and Sons,Thai,Cheap,Inwood,11:00,20:00,3.0,1
+387,Paucek-Koepp,Japanese,Moderate,Fort George,9:00,21:00,2.0,0
+388,Doyle and Sons,Spanish,Moderate,Inwood,9:00,22:00,3.7,1
+389,MacGyver LLC,Japanese,Cheap,Koreatown,8:00,20:00,4.4,0
+390,Greenfelder Inc,Italian,Moderate,Upper Manhattan,9:00,18:00,1.7,1
+391,Wisozk-Collier,Thai,Cheap,Times Square,10:00,21:00,2.3,0
+392,Kulas Group,Japanese,Cheap,West Harlem,7:00,22:00,4.7,0
+393,Langosh and Sons,Seafood,Expensive,Koreatown,11:00,21:00,1.5,0
+394,"Bechtelar, Ernser and Goyette",Japanese,Cheap,Inwood,10:00,21:00,1.2,1
+395,Johns-Schaden,Carribean,Moderate,Times Square,10:00,19:00,1.7,1
+396,"Gleichner, Ullrich and Kerluke",Thai,Cheap,Chelsea,9:00,19:00,4.1,1
+397,Schamberger Group,Chinese,Expensive,Inwood,10:00,22:00,1.1,0
+398,Hand and Sons,Carribean,Expensive,West Harlem,8:00,18:00,4.6,0
+399,Braun Group,Italian,Cheap,Marble Hill,11:00,19:00,1.7,0
+400,"Kirlin, Bernier and Haag",Korean,Cheap,Little Italy,10:00,19:00,5.0,0
+401,"Morar, Schumm and Kuhlman",Seafood,Cheap,Inwood,10:00,22:00,3.0,1
+402,Pouros-Borer,Vegetarian,Expensive,Times Square,8:00,22:00,1.1,1
+403,Klocko and Sons,Seafood,Moderate,Little Italy,11:00,19:00,4.5,1
+404,Parisian-Funk,Japanese,Expensive,Koreatown,11:00,20:00,2.5,1
+405,Hand-Klein,Mexican,Moderate,Upper Manhattan,10:00,18:00,2.9,1
+406,"Hoeger, Dietrich and Roberts",Carribean,Expensive,Times Square,7:00,19:00,2.5,0
+407,"Flatley, Quitzon and Kub",Mexican,Moderate,Times Square,7:00,20:00,3.6,1
+408,Abshire-Durgan,Carribean,Cheap,Fort George,9:00,21:00,4.4,0
+409,"D'Amore, Mayer and Howe",Korean,Expensive,Times Square,10:00,22:00,1.8,0
+410,Hand Group,Korean,Cheap,Inwood,11:00,19:00,4.3,0
+411,Kling-Beier,Carribean,Expensive,Inwood,10:00,19:00,4.0,1
+412,Beatty-Crist,Korean,Moderate,Times Square,9:00,22:00,2.1,1
+413,Kuphal-Greenholt,Seafood,Expensive,West Harlem,7:00,21:00,2.3,1
+414,"Reilly, Langosh and Fay",Mexican,Moderate,Marble Hill,9:00,18:00,3.6,1
+415,"Rempel, Hammes and Lubowitz",Seafood,Cheap,Upper Manhattan,7:00,22:00,4.3,1
+416,Gerlach and Sons,Spanish,Cheap,Little Italy,9:00,22:00,3.2,0
+417,"Dooley, Goodwin and Bergstrom",Thai,Moderate,Marble Hill,10:00,18:00,4.8,1
+418,Mayer-Kilback,Italian,Moderate,Fort George,8:00,22:00,4.0,0
+419,Mitchell Group,Chinese,Expensive,Marble Hill,8:00,22:00,2.0,1
+420,"Durgan, Dooley and Conn",Thai,Expensive,Fort George,10:00,20:00,1.6,0
+421,"Kertzmann, Wilkinson and Gulgowski",Vegetarian,Expensive,Inwood,10:00,21:00,2.2,0
+422,"Okuneva, Thompson and Boyer",Mexican,Expensive,Fort George,9:00,21:00,4.7,0
+423,Hyatt Group,Thai,Cheap,Little Italy,9:00,20:00,1.7,0
+424,Murray-Douglas,Mexican,Cheap,West Harlem,10:00,22:00,1.6,1
+425,"Gutkowski, Blick and Schulist",Spanish,Expensive,Little Italy,10:00,18:00,3.5,1
+426,"Streich, Sporer and Shields",Korean,Cheap,Chelsea,8:00,19:00,4.7,0
+427,Greenholt-Gutmann,Japanese,Cheap,West Harlem,10:00,20:00,4.6,0
+428,"Leffler, Pacocha and Moen",Thai,Moderate,Little Italy,8:00,22:00,2.8,1
+429,Rogahn-Schulist,Mexican,Expensive,Marble Hill,11:00,20:00,1.9,1
+430,O'Hara-Heaney,Chinese,Expensive,Marble Hill,9:00,19:00,3.9,0
+431,Considine-Miller,Seafood,Moderate,Little Italy,8:00,21:00,4.7,0
+432,Cartwright-Roob,Mexican,Cheap,West Harlem,10:00,18:00,5.0,1
+433,Lemke-Deckow,Thai,Cheap,Koreatown,10:00,20:00,2.8,0
+434,Bogisich Group,Vegetarian,Cheap,Chelsea,9:00,18:00,3.2,1
+435,"Crona, DuBuque and Grant",Seafood,Expensive,Marble Hill,8:00,18:00,1.9,0
+436,Miller-MacGyver,Mexican,Expensive,Chelsea,11:00,18:00,3.8,0
+437,Beahan and Sons,Japanese,Moderate,Inwood,8:00,21:00,1.9,1
+438,Collins-Schinner,Vegetarian,Expensive,Little Italy,7:00,20:00,4.3,0
+439,Pacocha and Sons,Carribean,Cheap,Fort George,11:00,21:00,4.4,0
+440,Pacocha-O'Connell,Italian,Cheap,Inwood,11:00,22:00,1.3,1
+441,"Reichert, Harvey and Lebsack",Vegetarian,Expensive,Times Square,11:00,18:00,5.0,0
+442,Yost-Rutherford,Italian,Moderate,Marble Hill,9:00,22:00,2.3,0
+443,Koss-Altenwerth,Spanish,Expensive,Fort George,7:00,21:00,1.9,0
+444,Howe and Sons,Thai,Expensive,Little Italy,7:00,20:00,2.3,0
+445,"Wilderman, McLaughlin and Homenick",Italian,Expensive,West Harlem,8:00,20:00,3.8,1
+446,Jakubowski-Witting,Vegetarian,Moderate,Times Square,11:00,22:00,3.7,0
+447,"Howell, Armstrong and Grant",Japanese,Cheap,Little Italy,9:00,22:00,4.5,1
+448,Gibson LLC,Thai,Expensive,Upper Manhattan,8:00,19:00,1.5,0
+449,Murphy-Pacocha,Korean,Cheap,Upper Manhattan,9:00,18:00,4.7,0
+450,Ortiz-Schumm,Korean,Expensive,Koreatown,9:00,19:00,4.3,0
+451,"Schoen, Schuster and Morissette",Korean,Cheap,Chelsea,9:00,22:00,2.8,1
+452,"Runte, Lakin and Nikolaus",Thai,Expensive,Inwood,8:00,21:00,2.8,0
+453,Denesik-Jacobson,Japanese,Expensive,Little Italy,7:00,19:00,2.5,0
+454,Zboncak Group,Mexican,Cheap,Marble Hill,7:00,22:00,2.6,0
+455,Schinner-Pouros,Carribean,Expensive,Times Square,11:00,21:00,1.5,1
+456,Dare LLC,Korean,Cheap,Times Square,7:00,20:00,2.1,0
+457,Jacobs-Greenholt,Chinese,Cheap,Chelsea,8:00,21:00,2.6,0
+458,McLaughlin Inc,Seafood,Cheap,Chelsea,7:00,21:00,1.1,1
+459,"McCullough, Homenick and Vandervort",Korean,Expensive,Times Square,7:00,22:00,1.0,0
+460,"Block, Kreiger and Wunsch",Spanish,Cheap,Little Italy,8:00,21:00,1.0,0
+461,"Hartmann, Konopelski and Feil",Japanese,Moderate,Marble Hill,10:00,21:00,4.1,0
+462,Wisozk Group,Chinese,Moderate,Upper Manhattan,11:00,22:00,4.7,0
+463,"Littel, Schinner and Klocko",Mexican,Moderate,Koreatown,8:00,19:00,3.0,0
+464,Hartmann and Sons,Carribean,Moderate,Chelsea,7:00,20:00,3.3,1
+465,Emmerich Inc,Mexican,Expensive,Upper Manhattan,11:00,21:00,4.9,0
+466,"Mann, Wehner and Towne",Carribean,Cheap,Koreatown,7:00,19:00,3.2,0
+467,"Gaylord, Baumbach and Abbott",Korean,Moderate,Inwood,8:00,18:00,1.7,1
+468,"Bernier, Little and Kemmer",Seafood,Expensive,Fort George,7:00,21:00,3.6,0
+469,Klocko and Sons,Seafood,Moderate,Marble Hill,9:00,18:00,2.9,1
+470,Schmitt-Mitchell,Japanese,Expensive,Marble Hill,7:00,18:00,1.6,1
+471,Rodriguez LLC,Italian,Cheap,Fort George,7:00,20:00,1.5,1
+472,"Stokes, Ruecker and Williamson",Mexican,Moderate,Marble Hill,9:00,21:00,3.7,1
+473,Quitzon-Krajcik,Carribean,Expensive,Fort George,7:00,20:00,3.8,1
+474,"Lockman, Jerde and Oberbrunner",Seafood,Expensive,Times Square,8:00,19:00,4.1,1
+475,Swift Inc,Carribean,Moderate,West Harlem,11:00,22:00,3.2,0
+476,"Feil, Anderson and Spencer",Chinese,Expensive,Times Square,8:00,22:00,1.6,1
+477,"Breitenberg, Koss and O'Kon",Vegetarian,Cheap,Upper Manhattan,7:00,22:00,2.8,0
+478,Rolfson Inc,Chinese,Expensive,Times Square,9:00,21:00,2.3,1
+479,Lowe Inc,Thai,Expensive,Times Square,7:00,21:00,4.0,1
+480,"Abshire, Runolfsdottir and Tremblay",Spanish,Expensive,West Harlem,7:00,21:00,3.7,0
+481,"McDermott, Keeling and Okuneva",Japanese,Expensive,West Harlem,9:00,22:00,1.6,0
+482,Hayes LLC,Seafood,Moderate,Upper Manhattan,11:00,20:00,1.2,0
+483,Ratke LLC,Chinese,Expensive,Inwood,11:00,20:00,2.5,0
+484,Buckridge-Dickens,Chinese,Expensive,Little Italy,9:00,18:00,2.4,1
+485,"Fadel, Schmeler and Wilderman",Seafood,Expensive,Times Square,11:00,22:00,3.6,0
+486,"Halvorson, Witting and Rau",Thai,Moderate,Fort George,7:00,21:00,1.5,0
+487,"Hickle, Mann and Rohan",Japanese,Cheap,Little Italy,10:00,19:00,1.1,0
+488,Pfannerstill-Parisian,Korean,Cheap,Inwood,11:00,20:00,3.7,0
+489,"Leannon, Conn and Adams",Italian,Moderate,West Harlem,8:00,22:00,4.9,0
+490,McCullough-Schulist,Chinese,Cheap,Chelsea,10:00,22:00,1.7,0
+491,"Fritsch, Mertz and Hauck",Spanish,Cheap,Chelsea,7:00,21:00,3.5,0
+492,Bernier and Sons,Italian,Expensive,Koreatown,8:00,20:00,1.9,0
+493,"Romaguera, Cruickshank and Romaguera",Seafood,Moderate,Upper Manhattan,7:00,19:00,3.6,1
+494,"Boyer, Kunde and O'Conner",Mexican,Expensive,Marble Hill,11:00,20:00,2.7,0
+495,Steuber-Pouros,Thai,Expensive,Inwood,7:00,20:00,2.1,0
+496,Waelchi-Powlowski,Japanese,Moderate,Times Square,9:00,22:00,3.1,1
+497,Zulauf Inc,Thai,Cheap,Chelsea,10:00,18:00,1.8,0
+498,Heidenreich LLC,Vegetarian,Moderate,Koreatown,10:00,20:00,4.5,0
+499,Stokes-Schmidt,Carribean,Moderate,Inwood,10:00,22:00,4.5,1
+500,"Borer, Wehner and Labadie",Chinese,Expensive,Times Square,10:00,21:00,2.9,1
+501,Smith-Hintz,Chinese,Expensive,Upper Manhattan,9:00,18:00,4.2,0
+502,Kunze Inc,Vegetarian,Expensive,Fort George,11:00,21:00,2.9,0
+503,Sporer-Strosin,Japanese,Expensive,Inwood,7:00,21:00,1.5,1
+504,Waelchi Group,Thai,Expensive,Koreatown,11:00,21:00,3.2,0
+505,Lynch-Fritsch,Mexican,Moderate,Little Italy,8:00,21:00,4.8,0
+506,"Homenick, Hartmann and Becker",Japanese,Moderate,Inwood,11:00,22:00,4.3,1
+507,Thiel-Abernathy,Thai,Moderate,Little Italy,8:00,21:00,3.3,1
+508,"Littel, Hauck and Mitchell",Mexican,Expensive,Inwood,11:00,19:00,4.8,0
+509,"Jast, Lowe and Koch",Carribean,Cheap,West Harlem,11:00,19:00,1.2,0
+510,"Lubowitz, Hand and Harber",Mexican,Expensive,Marble Hill,8:00,20:00,4.6,1
+511,"Zieme, Schowalter and McDermott",Carribean,Moderate,West Harlem,8:00,21:00,4.6,1
+512,"Schaefer, Kuhlman and Hegmann",Italian,Expensive,Chelsea,8:00,22:00,4.7,0
+513,Corwin LLC,Mexican,Expensive,Times Square,7:00,22:00,2.0,0
+514,Schowalter Inc,Carribean,Moderate,West Harlem,11:00,19:00,4.7,0
+515,Little-Graham,Thai,Moderate,Times Square,8:00,20:00,2.9,0
+516,Hodkiewicz-Heaney,Mexican,Expensive,Upper Manhattan,8:00,19:00,4.6,0
+517,Schroeder-Hamill,Carribean,Expensive,Marble Hill,10:00,20:00,2.1,0
+518,Mann-Strosin,Seafood,Cheap,Upper Manhattan,10:00,19:00,1.5,1
+519,Murphy and Sons,Chinese,Moderate,Upper Manhattan,10:00,21:00,1.4,0
+520,"Conroy, Mitchell and Runte",Seafood,Cheap,Chelsea,9:00,20:00,2.8,0
+521,Price LLC,Seafood,Cheap,Times Square,7:00,19:00,1.0,0
+522,"Effertz, Okuneva and Fahey",Italian,Cheap,Upper Manhattan,9:00,21:00,4.4,0
+523,Cormier-Sporer,Japanese,Expensive,Marble Hill,7:00,22:00,4.0,1
+524,Sanford Group,Japanese,Cheap,Koreatown,8:00,18:00,2.7,1
+525,Heidenreich LLC,Thai,Cheap,Marble Hill,7:00,19:00,3.2,1
+526,Spinka LLC,Korean,Cheap,Upper Manhattan,8:00,21:00,2.7,1
+527,Littel-Rohan,Chinese,Expensive,Koreatown,9:00,19:00,4.5,0
+528,Ledner-Goldner,Italian,Expensive,Upper Manhattan,11:00,20:00,5.0,1
+529,"Beatty, Harvey and Farrell",Spanish,Expensive,Inwood,9:00,19:00,4.5,0
+530,Lueilwitz Inc,Carribean,Cheap,Times Square,9:00,22:00,2.9,0
+531,"Conroy, Frami and Altenwerth",Spanish,Moderate,Inwood,11:00,21:00,1.3,1
+532,Kuhn-Schroeder,Thai,Expensive,Little Italy,7:00,18:00,3.4,1
+533,"Jones, Keebler and Hermiston",Thai,Moderate,Times Square,9:00,22:00,2.9,1
+534,Mitchell Group,Korean,Expensive,West Harlem,10:00,19:00,2.0,1
+535,Cartwright-Hodkiewicz,Spanish,Cheap,Koreatown,9:00,22:00,2.8,1
+536,"Muller, Grady and Paucek",Italian,Moderate,Fort George,10:00,19:00,2.5,1
+537,"Moore, Kerluke and Bruen",Seafood,Moderate,Marble Hill,10:00,18:00,3.6,1
+538,"Goodwin, Langosh and Rath",Vegetarian,Cheap,Upper Manhattan,8:00,20:00,4.3,0
+539,Herman-Hills,Carribean,Expensive,Upper Manhattan,9:00,19:00,2.8,1
+540,Baumbach Group,Japanese,Expensive,West Harlem,8:00,18:00,2.9,0
+541,"Gislason, Hahn and Bogisich",Thai,Cheap,Upper Manhattan,11:00,21:00,3.4,0
+542,Collier Group,Italian,Moderate,Fort George,11:00,21:00,3.4,1
+543,Keeling-Hand,Thai,Moderate,Upper Manhattan,11:00,20:00,3.4,0
+544,Muller Inc,Mexican,Moderate,Times Square,10:00,21:00,1.3,1
+545,Effertz-Kirlin,Mexican,Moderate,Inwood,11:00,18:00,3.5,0
+546,Marks-Gutmann,Mexican,Cheap,Koreatown,11:00,21:00,4.0,1
+547,"Luettgen, Sauer and Anderson",Chinese,Cheap,Times Square,9:00,22:00,4.6,0
+548,"Rempel, Upton and Pollich",Japanese,Expensive,Inwood,9:00,19:00,4.4,1
+549,Breitenberg-Turcotte,Carribean,Expensive,Fort George,7:00,20:00,2.3,1
+550,"Ullrich, Sipes and Ritchie",Korean,Cheap,Marble Hill,11:00,22:00,3.2,0
+551,Swaniawski Inc,Spanish,Cheap,Chelsea,10:00,21:00,4.2,0
+552,Kub-Oberbrunner,Mexican,Cheap,Marble Hill,11:00,22:00,4.2,1
+553,Terry-Walter,Thai,Cheap,Marble Hill,7:00,19:00,5.0,1
+554,Connelly LLC,Vegetarian,Expensive,Upper Manhattan,7:00,22:00,2.6,1
+555,Wiza Inc,Italian,Cheap,West Harlem,10:00,18:00,3.2,1
+556,Lockman Group,Japanese,Cheap,Times Square,8:00,20:00,1.1,0
+557,"Schmidt, Buckridge and Towne",Vegetarian,Expensive,Koreatown,11:00,20:00,2.6,0
+558,Doyle-Bruen,Spanish,Expensive,Koreatown,8:00,21:00,2.5,0
+559,Nicolas-Wilderman,Thai,Cheap,Upper Manhattan,8:00,21:00,1.2,1
+560,"Rogahn, McCullough and Jacobs",Seafood,Moderate,West Harlem,11:00,19:00,1.3,0
+561,O'Conner and Sons,Carribean,Cheap,Chelsea,11:00,18:00,4.5,1
+562,Collier-Stroman,Chinese,Moderate,Times Square,9:00,18:00,1.0,0
+563,Conn Group,Korean,Cheap,Upper Manhattan,8:00,22:00,3.8,0
+564,Funk and Sons,Vegetarian,Expensive,Inwood,7:00,22:00,3.9,1
+565,McCullough-Mayert,Spanish,Expensive,Marble Hill,9:00,20:00,4.1,0
+566,"Prosacco, Erdman and Welch",Japanese,Moderate,Inwood,10:00,18:00,1.8,1
+567,"Steuber, Kub and Cassin",Italian,Moderate,Little Italy,7:00,20:00,3.2,1
+568,Raynor-Lebsack,Italian,Moderate,Inwood,8:00,19:00,1.0,1
+569,Ankunding LLC,Thai,Cheap,Times Square,9:00,20:00,3.3,0
+570,"Harvey, Farrell and Johnston",Spanish,Expensive,Fort George,7:00,18:00,2.0,0
+571,Zulauf-Renner,Italian,Moderate,Times Square,11:00,19:00,4.1,0
+572,McClure and Sons,Spanish,Cheap,Fort George,10:00,22:00,1.6,0
+573,Feeney Inc,Italian,Cheap,Upper Manhattan,10:00,21:00,4.9,1
+574,Gottlieb-Osinski,Spanish,Moderate,Upper Manhattan,9:00,19:00,1.1,1
+575,"Lind, Nicolas and Bergnaum",Mexican,Cheap,Chelsea,8:00,21:00,3.0,1
+576,Lemke-Collins,Vegetarian,Cheap,Marble Hill,7:00,22:00,5.0,1
+577,Feest LLC,Japanese,Cheap,Upper Manhattan,10:00,21:00,3.7,1
+578,Jacobson-Davis,Seafood,Cheap,Fort George,9:00,19:00,2.3,1
+579,Herman-Ferry,Japanese,Cheap,Little Italy,9:00,18:00,4.3,1
+580,"Terry, Ernser and Tromp",Seafood,Expensive,Chelsea,10:00,22:00,2.1,1
+581,"Langosh, Rice and Olson",Thai,Cheap,Inwood,11:00,19:00,3.8,0
+582,Vandervort-Gibson,Korean,Cheap,Chelsea,8:00,22:00,4.4,0
+583,"Ward, Kunze and McKenzie",Chinese,Expensive,Koreatown,10:00,18:00,1.2,1
+584,Walter-Bergstrom,Thai,Cheap,Fort George,7:00,19:00,3.2,0
+585,Zboncak-Wehner,Italian,Cheap,Koreatown,9:00,22:00,4.7,0
+586,Brekke Inc,Carribean,Cheap,Inwood,11:00,19:00,4.3,1
+587,Baumbach LLC,Vegetarian,Moderate,Times Square,9:00,20:00,3.3,1
+588,Herzog-Wolff,Vegetarian,Expensive,Fort George,9:00,19:00,4.9,1
+589,Padberg and Sons,Seafood,Cheap,Little Italy,8:00,20:00,3.8,0
+590,Berge-Lowe,Mexican,Cheap,Fort George,10:00,21:00,2.9,0
+591,"Runte, Hayes and Crona",Chinese,Cheap,Upper Manhattan,8:00,21:00,1.6,0
+592,Kautzer Inc,Spanish,Expensive,Fort George,9:00,21:00,3.4,1
+593,Johnson-Abshire,Carribean,Expensive,Times Square,10:00,21:00,2.6,0
+594,DuBuque-Bruen,Korean,Moderate,West Harlem,8:00,18:00,3.1,0
+595,"Wisoky, Hickle and Wilderman",Vegetarian,Moderate,Inwood,10:00,21:00,1.4,1
+596,"Will, VonRueden and Senger",Thai,Moderate,Times Square,8:00,19:00,1.3,1
+597,"Hintz, Terry and Boyer",Italian,Expensive,Fort George,8:00,21:00,3.6,0
+598,Cummings LLC,Korean,Cheap,Upper Manhattan,10:00,21:00,4.9,1
+599,Connelly-Cremin,Seafood,Expensive,Fort George,8:00,22:00,3.0,1
+600,Connelly Inc,Seafood,Cheap,Chelsea,10:00,21:00,2.6,1
+601,Crist Inc,Italian,Moderate,Chelsea,10:00,21:00,4.4,1
+602,"Feest, Simonis and Weimann",Seafood,Moderate,West Harlem,11:00,20:00,3.6,1
+603,Morar Inc,Italian,Expensive,Chelsea,9:00,21:00,3.6,1
+604,Doyle-Rogahn,Spanish,Expensive,Fort George,8:00,18:00,2.5,1
+605,Ferry Group,Italian,Moderate,Times Square,11:00,18:00,1.9,1
+606,Volkman-Monahan,Italian,Expensive,Chelsea,11:00,22:00,2.4,0
+607,Ward-Mueller,Mexican,Moderate,Little Italy,11:00,19:00,1.9,1
+608,Bayer and Sons,Chinese,Cheap,Times Square,8:00,22:00,1.6,0
+609,Wilkinson and Sons,Chinese,Expensive,Upper Manhattan,11:00,18:00,1.4,0
+610,"Mraz, Breitenberg and Padberg",Chinese,Cheap,Marble Hill,10:00,22:00,3.5,0
+611,Sanford LLC,Carribean,Moderate,Chelsea,10:00,18:00,1.2,0
+612,Ullrich Inc,Japanese,Cheap,Little Italy,11:00,20:00,3.7,1
+613,Schaefer Inc,Italian,Moderate,West Harlem,7:00,21:00,5.0,0
+614,Considine-Raynor,Seafood,Cheap,Marble Hill,10:00,18:00,1.1,0
+615,"Koch, Marvin and Haag",Seafood,Cheap,Upper Manhattan,8:00,18:00,4.8,1
+616,Rolfson-Gaylord,Italian,Cheap,West Harlem,10:00,20:00,4.6,1
+617,Reinger-Larson,Japanese,Moderate,Inwood,10:00,21:00,3.7,0
+618,Bradtke and Sons,Korean,Moderate,Chelsea,8:00,18:00,2.0,1
+619,Murphy-Hodkiewicz,Mexican,Cheap,Chelsea,8:00,21:00,4.0,0
+620,"Schamberger, Schoen and Conroy",Italian,Moderate,West Harlem,10:00,19:00,2.4,1
+621,Howell Group,Korean,Moderate,Times Square,7:00,21:00,1.7,1
+622,Pfannerstill-Bruen,Thai,Moderate,Inwood,8:00,22:00,2.5,0
+623,Raynor-Russel,Japanese,Expensive,West Harlem,11:00,18:00,4.0,0
+624,Weimann-Hackett,Seafood,Moderate,Inwood,9:00,22:00,1.6,0
+625,"Konopelski, Corwin and Mayert",Thai,Cheap,Koreatown,9:00,18:00,1.5,0
+626,Luettgen-Paucek,Vegetarian,Moderate,Times Square,8:00,20:00,1.4,0
+627,Ferry-Wiza,Seafood,Expensive,Marble Hill,9:00,21:00,4.6,0
+628,"Collier, Spencer and Hahn",Chinese,Moderate,Chelsea,9:00,19:00,4.0,0
+629,"Bartell, Bechtelar and Reynolds",Mexican,Moderate,Times Square,11:00,18:00,3.7,0
+630,Koelpin-Boehm,Italian,Cheap,Upper Manhattan,8:00,18:00,2.0,0
+631,Schulist Group,Vegetarian,Cheap,Upper Manhattan,10:00,18:00,1.1,1
+632,"Huels, Zulauf and Koepp",Mexican,Expensive,Times Square,8:00,20:00,2.8,0
+633,Kreiger-Toy,Chinese,Moderate,Fort George,9:00,21:00,3.6,1
+634,Krajcik Group,Thai,Moderate,Inwood,8:00,18:00,1.9,1
+635,Hegmann LLC,Japanese,Cheap,Fort George,9:00,22:00,5.0,1
+636,Bahringer LLC,Japanese,Expensive,Inwood,8:00,21:00,2.6,0
+637,Adams Group,Vegetarian,Cheap,Little Italy,8:00,21:00,1.3,1
+638,Bernhard-Reichert,Mexican,Cheap,Chelsea,10:00,20:00,2.8,0
+639,"Gislason, Konopelski and Ullrich",Korean,Moderate,Koreatown,9:00,22:00,1.6,0
+640,Walter Inc,Chinese,Cheap,West Harlem,7:00,22:00,2.7,0
+641,Kassulke Inc,Mexican,Moderate,Little Italy,9:00,22:00,2.5,1
+642,Williamson-Blick,Chinese,Cheap,Fort George,11:00,20:00,2.9,1
+643,Jones LLC,Mexican,Expensive,Koreatown,11:00,19:00,1.1,1
+644,Reynolds and Sons,Korean,Expensive,Times Square,11:00,19:00,1.1,0
+645,Bergstrom-Goyette,Japanese,Expensive,Koreatown,7:00,20:00,1.1,0
+646,Balistreri-Johns,Korean,Expensive,Little Italy,8:00,20:00,2.4,1
+647,Cronin-Dietrich,Korean,Moderate,Little Italy,7:00,18:00,1.6,0
+648,Beatty Inc,Japanese,Moderate,Fort George,11:00,18:00,2.0,1
+649,"Ortiz, Ortiz and Schneider",Spanish,Expensive,Little Italy,8:00,19:00,4.5,0
+650,Miller-Crooks,Seafood,Moderate,Marble Hill,11:00,21:00,1.3,0
+651,Kutch-Schimmel,Japanese,Moderate,Fort George,7:00,19:00,3.9,1
+652,Schulist-Borer,Seafood,Moderate,Chelsea,7:00,20:00,3.6,0
+653,Torphy-Hessel,Italian,Moderate,West Harlem,8:00,19:00,4.3,0
+654,"Balistreri, McCullough and Steuber",Korean,Moderate,Marble Hill,10:00,19:00,4.5,0
+655,Fisher-Marks,Vegetarian,Moderate,Times Square,10:00,21:00,1.9,1
+656,"Bernier, Macejkovic and Kirlin",Seafood,Moderate,Times Square,9:00,19:00,1.2,1
+657,"Nader, Bernier and Terry",Korean,Cheap,Fort George,11:00,19:00,4.1,1
+658,"Pfeffer, Bechtelar and Fadel",Italian,Cheap,Fort George,10:00,20:00,3.9,1
+659,DuBuque LLC,Spanish,Expensive,Times Square,7:00,19:00,3.9,1
+660,D'Amore LLC,Spanish,Moderate,Koreatown,11:00,19:00,2.2,0
+661,"Kuhic, Beatty and Krajcik",Korean,Expensive,Times Square,11:00,18:00,2.4,1
+662,Bahringer-Treutel,Carribean,Moderate,Inwood,10:00,19:00,1.4,1
+663,"Hahn, Trantow and Koch",Mexican,Moderate,Koreatown,8:00,21:00,3.3,1
+664,Bergnaum Inc,Japanese,Moderate,Koreatown,10:00,19:00,4.4,1
+665,Ruecker-White,Seafood,Cheap,Chelsea,9:00,20:00,4.3,1
+666,"Pollich, Harris and Zboncak",Carribean,Moderate,Little Italy,9:00,21:00,2.1,0
+667,Jacobson-Gerlach,Korean,Moderate,Little Italy,7:00,18:00,1.9,0
+668,"Larson, Reynolds and Labadie",Korean,Cheap,Koreatown,11:00,22:00,4.9,1
+669,"Gutmann, Graham and McCullough",Seafood,Expensive,Inwood,7:00,18:00,2.8,1
+670,"Hackett, Mueller and Gulgowski",Mexican,Moderate,Times Square,9:00,21:00,2.8,0
+671,"Homenick, Hoppe and Frami",Thai,Moderate,Times Square,8:00,19:00,3.7,1
+672,Hammes-Williamson,Korean,Moderate,West Harlem,8:00,20:00,3.9,0
+673,Pouros and Sons,Carribean,Moderate,Upper Manhattan,9:00,22:00,4.8,0
+674,"Schmidt, Waelchi and Kohler",Vegetarian,Cheap,Times Square,10:00,21:00,2.6,0
+675,Emmerich LLC,Thai,Cheap,Upper Manhattan,9:00,21:00,1.0,1
+676,"Pacocha, Howe and Littel",Vegetarian,Cheap,Times Square,7:00,20:00,2.6,0
+677,"Schroeder, Ratke and Farrell",Korean,Cheap,Chelsea,9:00,21:00,2.0,1
+678,"Breitenberg, Hirthe and Murazik",Seafood,Cheap,Koreatown,10:00,19:00,2.8,0
+679,"Langworth, Howe and Orn",Carribean,Moderate,Fort George,11:00,21:00,2.2,1
+680,Hane-McGlynn,Seafood,Moderate,Upper Manhattan,10:00,19:00,4.0,0
+681,"Feest, Beahan and Jaskolski",Vegetarian,Cheap,Little Italy,10:00,19:00,4.2,0
+682,Johnston-Eichmann,Mexican,Cheap,Koreatown,11:00,19:00,3.5,0
+683,"Lind, Upton and Mann",Italian,Cheap,Times Square,10:00,21:00,3.2,1
+684,"Wunsch, Willms and Beatty",Korean,Moderate,Inwood,7:00,22:00,4.0,1
+685,Considine Group,Japanese,Expensive,Inwood,10:00,20:00,3.0,1
+686,Cole-Robel,Vegetarian,Expensive,Fort George,11:00,19:00,2.8,0
+687,Deckow-Bartell,Spanish,Expensive,West Harlem,7:00,20:00,1.5,0
+688,Blanda Inc,Italian,Cheap,West Harlem,8:00,22:00,2.3,1
+689,Eichmann-Legros,Vegetarian,Moderate,Times Square,11:00,19:00,2.8,1
+690,"Baumbach, Keeling and Will",Carribean,Moderate,Fort George,8:00,18:00,1.5,0
+691,"Ledner, Fahey and Kunze",Japanese,Moderate,Little Italy,8:00,21:00,4.7,1
+692,"Skiles, Considine and Homenick",Thai,Expensive,Upper Manhattan,7:00,21:00,2.4,1
+693,Yost Group,Japanese,Moderate,Upper Manhattan,7:00,22:00,1.8,1
+694,Lindgren and Sons,Thai,Moderate,Chelsea,9:00,21:00,1.9,0
+695,Keeling Group,Mexican,Moderate,Chelsea,8:00,22:00,1.1,0
+696,Fisher-Gerlach,Chinese,Moderate,Fort George,10:00,21:00,2.5,1
+697,"Rippin, Rogahn and Witting",Seafood,Cheap,Times Square,11:00,19:00,2.5,1
+698,Friesen-Walker,Korean,Moderate,Koreatown,10:00,18:00,4.2,1
+699,Stehr-Rowe,Seafood,Moderate,Times Square,11:00,18:00,4.9,1
+700,Spencer Inc,Carribean,Expensive,Chelsea,7:00,20:00,4.5,1
+701,Doyle-Wiza,Thai,Expensive,Inwood,9:00,22:00,3.1,1
+702,"Runolfsson, Mante and Schulist",Korean,Cheap,Times Square,7:00,18:00,3.9,1
+703,Mayer-Corkery,Spanish,Cheap,Koreatown,11:00,18:00,4.4,0
+704,"Friesen, Hirthe and Towne",Italian,Expensive,Times Square,9:00,22:00,1.7,0
+705,Roberts-Lind,Chinese,Moderate,Koreatown,7:00,18:00,2.9,1
+706,Satterfield-Kozey,Italian,Moderate,Times Square,8:00,20:00,2.3,0
+707,Howe-Buckridge,Japanese,Expensive,Little Italy,7:00,20:00,3.4,0
+708,Daugherty-Shields,Korean,Cheap,Upper Manhattan,8:00,22:00,3.6,1
+709,Streich-Jones,Vegetarian,Expensive,Koreatown,9:00,22:00,1.1,0
+710,"Bruen, Ryan and Schowalter",Japanese,Moderate,Chelsea,9:00,21:00,4.4,0
+711,Dickinson-Powlowski,Mexican,Cheap,Koreatown,7:00,18:00,1.9,1
+712,Lakin LLC,Seafood,Moderate,Chelsea,7:00,22:00,1.2,0
+713,Durgan-Crist,Spanish,Expensive,Times Square,8:00,20:00,1.2,1
+714,"Rosenbaum, Smith and Johnson",Thai,Cheap,Koreatown,9:00,19:00,2.7,0
+715,Gottlieb Group,Thai,Cheap,West Harlem,10:00,22:00,4.0,0
+716,Green Group,Seafood,Cheap,Inwood,7:00,19:00,4.0,1
+717,Spencer Inc,Chinese,Cheap,Koreatown,7:00,22:00,1.0,0
+718,Monahan LLC,Japanese,Moderate,Koreatown,8:00,18:00,3.2,1
+719,O'Kon-Keebler,Chinese,Expensive,Koreatown,7:00,21:00,4.6,0
+720,"Stokes, Smith and Johnson",Mexican,Cheap,Marble Hill,10:00,21:00,3.9,1
+721,Gutmann Group,Chinese,Cheap,Marble Hill,9:00,19:00,1.3,1
+722,Moen-O'Kon,Korean,Expensive,Koreatown,11:00,22:00,3.6,0
+723,Cremin Inc,Italian,Expensive,Inwood,8:00,19:00,2.6,1
+724,"Padberg, Batz and Heaney",Thai,Expensive,Koreatown,8:00,18:00,1.6,1
+725,Runolfsdottir and Sons,Vegetarian,Cheap,Little Italy,8:00,18:00,1.4,1
+726,Hansen-Greenfelder,Spanish,Expensive,Fort George,11:00,22:00,4.4,0
+727,"Maggio, Johns and Dare",Vegetarian,Cheap,Upper Manhattan,8:00,18:00,1.3,0
+728,Wyman Group,Thai,Moderate,Chelsea,7:00,18:00,2.9,1
+729,Pfannerstill LLC,Italian,Moderate,Marble Hill,10:00,21:00,3.7,0
+730,Keebler-Blick,Vegetarian,Expensive,Inwood,8:00,19:00,2.2,1
+731,Leannon-Gibson,Carribean,Expensive,Upper Manhattan,11:00,18:00,1.4,0
+732,Cartwright Group,Vegetarian,Expensive,Times Square,9:00,20:00,4.9,0
+733,Ryan-Mraz,Thai,Expensive,Chelsea,7:00,20:00,1.2,1
+734,Parisian-Hammes,Seafood,Expensive,Inwood,10:00,19:00,4.7,1
+735,Effertz Inc,Chinese,Moderate,Marble Hill,7:00,21:00,2.9,1
+736,Raynor Group,Chinese,Moderate,Chelsea,10:00,22:00,3.4,1
+737,Marquardt and Sons,Chinese,Moderate,Fort George,10:00,18:00,2.3,1
+738,"Halvorson, Pagac and Ryan",Japanese,Moderate,Chelsea,11:00,18:00,1.8,1
+739,Zemlak-Kessler,Carribean,Moderate,Little Italy,9:00,20:00,1.6,0
+740,"Toy, Roob and Thompson",Carribean,Expensive,Inwood,8:00,21:00,2.0,1
+741,Reilly LLC,Carribean,Cheap,Times Square,8:00,18:00,3.5,0
+742,Toy-Zemlak,Italian,Expensive,Times Square,10:00,19:00,2.7,0
+743,Homenick Inc,Japanese,Moderate,Inwood,11:00,19:00,4.8,1
+744,Marquardt-Ryan,Thai,Expensive,West Harlem,10:00,18:00,1.8,1
+745,Blanda and Sons,Italian,Cheap,Little Italy,8:00,21:00,1.1,0
+746,Hills-Tremblay,Korean,Moderate,Koreatown,11:00,22:00,4.1,0
+747,Green LLC,Thai,Moderate,Fort George,8:00,19:00,1.9,0
+748,Cummerata LLC,Seafood,Cheap,Upper Manhattan,11:00,19:00,4.9,1
+749,McKenzie Inc,Vegetarian,Moderate,Koreatown,8:00,21:00,3.0,1
+750,Tromp-Okuneva,Seafood,Cheap,Upper Manhattan,10:00,18:00,4.9,1
+751,"Lebsack, Howell and Nicolas",Vegetarian,Cheap,Chelsea,11:00,21:00,4.8,0
+752,O'Hara LLC,Spanish,Expensive,Marble Hill,8:00,18:00,3.2,0
+753,"Murray, Effertz and Mertz",Chinese,Moderate,Times Square,10:00,21:00,1.4,0
+754,Tillman Group,Italian,Expensive,Times Square,8:00,19:00,2.3,0
+755,Cremin Inc,Carribean,Moderate,Little Italy,10:00,19:00,4.0,1
+756,Turner-Barrows,Mexican,Cheap,Marble Hill,7:00,22:00,1.5,0
+757,Fritsch-Emmerich,Spanish,Moderate,West Harlem,9:00,22:00,2.8,1
+758,Pacocha LLC,Carribean,Cheap,Upper Manhattan,7:00,18:00,3.9,1
+759,Doyle Group,Vegetarian,Moderate,Chelsea,11:00,21:00,2.0,0
+760,"Okuneva, Wiegand and Schulist",Vegetarian,Expensive,Koreatown,11:00,21:00,2.1,0
+761,Luettgen LLC,Carribean,Moderate,Little Italy,9:00,18:00,2.9,0
+762,"Dickens, Casper and Wyman",Korean,Moderate,Marble Hill,10:00,22:00,2.4,0
+763,Kuphal and Sons,Japanese,Moderate,Inwood,11:00,21:00,3.2,0
+764,Hoeger-Sanford,Seafood,Cheap,Upper Manhattan,9:00,20:00,2.0,1
+765,Hahn-Hills,Thai,Moderate,Koreatown,11:00,22:00,1.5,0
+766,"Jenkins, Buckridge and Parker",Thai,Expensive,West Harlem,10:00,18:00,3.8,0
+767,Langworth-Moore,Korean,Moderate,Inwood,10:00,18:00,4.2,1
+768,Wyman-Quigley,Spanish,Moderate,Fort George,10:00,20:00,4.9,1
+769,"Lind, Donnelly and Treutel",Thai,Expensive,Koreatown,10:00,22:00,1.7,1
+770,Ritchie Inc,Vegetarian,Expensive,West Harlem,11:00,21:00,2.3,0
+771,Tillman Group,Chinese,Moderate,Inwood,7:00,20:00,4.1,0
+772,Heidenreich Inc,Carribean,Moderate,Fort George,8:00,22:00,4.7,0
+773,Nolan Inc,Korean,Moderate,Little Italy,10:00,21:00,4.6,0
+774,"Johnston, Blick and Dickens",Japanese,Cheap,Marble Hill,8:00,19:00,1.2,1
+775,Murray-Leffler,Vegetarian,Moderate,West Harlem,10:00,20:00,2.9,1
+776,"Lockman, Ebert and Hansen",Mexican,Cheap,Little Italy,10:00,21:00,4.1,0
+777,Rath and Sons,Carribean,Cheap,Chelsea,10:00,21:00,2.4,1
+778,Grant-VonRueden,Japanese,Expensive,Inwood,11:00,19:00,4.9,0
+779,"Steuber, Toy and Boyer",Vegetarian,Cheap,Upper Manhattan,8:00,19:00,4.2,0
+780,Prohaska Inc,Mexican,Cheap,Little Italy,11:00,21:00,4.9,1
+781,Keeling and Sons,Seafood,Moderate,Upper Manhattan,9:00,22:00,4.4,1
+782,Christiansen-Herman,Chinese,Moderate,Little Italy,11:00,21:00,2.4,0
+783,White and Sons,Spanish,Cheap,Little Italy,10:00,21:00,3.5,0
+784,Purdy-Konopelski,Spanish,Cheap,West Harlem,10:00,18:00,4.5,0
+785,Huel-Williamson,Japanese,Moderate,Chelsea,11:00,20:00,2.2,0
+786,Marks-Hoeger,Thai,Cheap,Koreatown,11:00,21:00,3.8,1
+787,Koelpin Group,Carribean,Expensive,Marble Hill,9:00,19:00,4.1,1
+788,Kub-Balistreri,Spanish,Expensive,Times Square,8:00,21:00,4.4,1
+789,"Gibson, Schultz and Crona",Thai,Cheap,Marble Hill,7:00,22:00,2.2,1
+790,McCullough LLC,Mexican,Moderate,Upper Manhattan,10:00,19:00,4.5,1
+791,Glover Group,Japanese,Expensive,Inwood,10:00,21:00,3.9,1
+792,Quitzon-Hartmann,Japanese,Expensive,Upper Manhattan,8:00,22:00,1.2,0
+793,"Koss, Hintz and Funk",Korean,Expensive,Inwood,11:00,22:00,3.7,1
+794,Purdy-Fay,Mexican,Expensive,Marble Hill,9:00,19:00,4.3,1
+795,"Kiehn, Klocko and Effertz",Korean,Expensive,Inwood,8:00,18:00,2.3,1
+796,"Walker, Schmeler and Rice",Japanese,Expensive,Koreatown,8:00,19:00,4.8,1
+797,Schinner LLC,Mexican,Moderate,Marble Hill,9:00,19:00,1.2,1
+798,Zboncak-Predovic,Carribean,Expensive,Little Italy,10:00,19:00,1.6,0
+799,Schumm-Casper,Thai,Cheap,Marble Hill,7:00,21:00,2.2,0
+800,Bahringer Group,Chinese,Cheap,Marble Hill,7:00,21:00,2.2,0
+801,Hoeger-Zulauf,Japanese,Cheap,Upper Manhattan,10:00,20:00,3.2,0
+802,Zulauf Inc,Chinese,Expensive,Fort George,8:00,21:00,2.0,1
+803,"Jacobson, Stehr and Fay",Spanish,Expensive,Upper Manhattan,8:00,20:00,1.9,1
+804,"Leannon, Halvorson and Goodwin",Thai,Moderate,Inwood,9:00,18:00,3.5,1
+805,Auer and Sons,Chinese,Moderate,Koreatown,7:00,22:00,4.0,1
+806,Quitzon and Sons,Korean,Expensive,Times Square,9:00,19:00,3.8,1
+807,Batz-Nikolaus,Italian,Cheap,Upper Manhattan,11:00,18:00,1.6,0
+808,"Mitchell, Bogisich and Lind",Italian,Expensive,Upper Manhattan,9:00,20:00,1.1,0
+809,Pouros-Bailey,Vegetarian,Moderate,Chelsea,9:00,21:00,4.9,0
+810,Grady LLC,Chinese,Moderate,Little Italy,11:00,20:00,2.1,0
+811,Pacocha LLC,Seafood,Expensive,Times Square,7:00,20:00,4.2,0
+812,"Upton, Beier and Tremblay",Seafood,Expensive,Koreatown,8:00,20:00,2.8,0
+813,Hirthe and Sons,Carribean,Expensive,Koreatown,11:00,20:00,4.6,0
+814,DuBuque-Gutmann,Carribean,Moderate,Chelsea,11:00,20:00,2.1,0
+815,Raynor Inc,Seafood,Expensive,Marble Hill,8:00,18:00,3.3,0
+816,"Stehr, Ferry and Volkman",Korean,Expensive,Times Square,8:00,21:00,1.9,1
+817,Keeling-Cartwright,Japanese,Moderate,Fort George,10:00,20:00,3.1,0
+818,"O'Kon, Keeling and Kovacek",Thai,Moderate,Inwood,8:00,19:00,1.1,0
+819,"Weimann, O'Connell and Howell",Italian,Moderate,West Harlem,9:00,22:00,4.0,0
+820,Schumm-Morissette,Carribean,Expensive,Inwood,7:00,19:00,1.6,1
+821,Muller LLC,Thai,Moderate,Little Italy,8:00,19:00,3.6,1
+822,"Kerluke, Gottlieb and Vandervort",Thai,Cheap,Little Italy,11:00,20:00,3.4,0
+823,Heller and Sons,Carribean,Expensive,Inwood,8:00,20:00,1.1,1
+824,"Haley, Aufderhar and Funk",Chinese,Cheap,Marble Hill,8:00,20:00,3.7,0
+825,Crona-Franecki,Seafood,Moderate,Chelsea,10:00,18:00,1.6,1
+826,Shanahan-Strosin,Vegetarian,Expensive,West Harlem,8:00,20:00,3.2,1
+827,Bogan Inc,Italian,Cheap,Koreatown,11:00,21:00,1.6,1
+828,Lubowitz-Fritsch,Italian,Moderate,Chelsea,9:00,18:00,3.1,1
+829,Watsica and Sons,Mexican,Moderate,Upper Manhattan,8:00,20:00,1.1,0
+830,"Gulgowski, Brakus and Mosciski",Thai,Expensive,Little Italy,10:00,18:00,2.9,1
+831,O'Conner and Sons,Chinese,Cheap,West Harlem,8:00,18:00,3.6,0
+832,White-Anderson,Mexican,Cheap,Marble Hill,11:00,18:00,3.8,0
+833,Mann-Shanahan,Japanese,Moderate,Marble Hill,7:00,21:00,4.0,0
+834,Altenwerth-Schmeler,Chinese,Expensive,Fort George,11:00,22:00,4.8,0
+835,"Conroy, Buckridge and Jakubowski",Mexican,Cheap,Upper Manhattan,7:00,19:00,4.6,1
+836,"Zemlak, Kutch and Fadel",Korean,Expensive,Fort George,10:00,18:00,4.3,0
+837,"Schinner, Effertz and Wilkinson",Vegetarian,Cheap,Upper Manhattan,8:00,18:00,3.0,1
+838,"Zemlak, Pfannerstill and Bogisich",Chinese,Moderate,Fort George,10:00,18:00,4.0,0
+839,Abbott-Gaylord,Japanese,Moderate,West Harlem,8:00,20:00,2.4,1
+840,Bayer Inc,Carribean,Expensive,Chelsea,7:00,22:00,3.4,0
+841,Goodwin and Sons,Spanish,Expensive,Marble Hill,7:00,18:00,1.4,0
+842,"Armstrong, Zieme and Harvey",Korean,Expensive,Upper Manhattan,10:00,19:00,4.6,1
+843,Schowalter and Sons,Korean,Cheap,Times Square,9:00,21:00,4.7,1
+844,Gibson and Sons,Seafood,Cheap,Little Italy,9:00,19:00,3.9,1
+845,"Shanahan, Will and Hessel",Mexican,Moderate,Fort George,10:00,22:00,2.5,1
+846,"Rippin, Hagenes and Hirthe",Thai,Cheap,Inwood,8:00,21:00,4.8,0
+847,"Sipes, Schmidt and Hoppe",Japanese,Moderate,Marble Hill,10:00,20:00,1.2,1
+848,"Willms, Erdman and Kertzmann",Carribean,Moderate,Marble Hill,7:00,18:00,2.2,1
+849,"Renner, Boyer and Paucek",Seafood,Cheap,Marble Hill,7:00,22:00,2.0,0
+850,Kautzer-Hoeger,Vegetarian,Cheap,Marble Hill,9:00,19:00,1.1,1
+851,Hirthe-Farrell,Vegetarian,Cheap,Marble Hill,8:00,18:00,2.8,0
+852,"Bednar, O'Kon and Glover",Vegetarian,Cheap,Marble Hill,8:00,22:00,1.4,1
+853,"Watsica, Nicolas and Considine",Italian,Cheap,Chelsea,10:00,18:00,2.8,1
+854,Hoeger-Powlowski,Seafood,Expensive,Upper Manhattan,8:00,18:00,4.2,1
+855,Hyatt Group,Mexican,Expensive,Upper Manhattan,10:00,19:00,1.3,1
+856,Wehner Group,Spanish,Expensive,Little Italy,7:00,22:00,4.3,1
+857,Wolf Group,Italian,Cheap,Chelsea,7:00,21:00,3.9,1
+858,Von-Bashirian,Italian,Expensive,West Harlem,9:00,20:00,4.7,0
+859,"Pollich, Lockman and Flatley",Italian,Moderate,West Harlem,9:00,20:00,2.4,1
+860,Schowalter LLC,Thai,Moderate,Upper Manhattan,9:00,22:00,4.1,0
+861,"Powlowski, Hackett and Johnston",Vegetarian,Moderate,Inwood,10:00,22:00,2.0,0
+862,Collins-Stanton,Spanish,Expensive,West Harlem,11:00,19:00,3.6,0
+863,Gusikowski-Huel,Japanese,Expensive,Fort George,10:00,18:00,3.1,1
+864,"Abshire, Purdy and Shanahan",Chinese,Moderate,Fort George,9:00,22:00,1.5,0
+865,Orn-Mueller,Vegetarian,Cheap,Marble Hill,11:00,21:00,3.0,1
+866,Braun Group,Carribean,Moderate,Times Square,9:00,18:00,3.7,0
+867,Funk-Effertz,Japanese,Cheap,Little Italy,10:00,22:00,4.5,1
+868,Gislason-Keebler,Vegetarian,Moderate,West Harlem,9:00,20:00,3.8,1
+869,"Goldner, Braun and Murray",Chinese,Moderate,Fort George,8:00,21:00,1.7,0
+870,Lowe Inc,Carribean,Cheap,Times Square,11:00,18:00,2.9,0
+871,"Schimmel, Casper and Huel",Seafood,Cheap,Marble Hill,11:00,20:00,1.1,0
+872,Brekke Inc,Mexican,Expensive,West Harlem,10:00,19:00,2.1,1
+873,Mohr-Mitchell,Vegetarian,Cheap,Marble Hill,10:00,20:00,2.4,1
+874,Collins Inc,Chinese,Cheap,Fort George,7:00,19:00,1.9,0
+875,Lesch-Lemke,Seafood,Cheap,Koreatown,11:00,21:00,1.3,1
+876,"Schroeder, Quitzon and Thompson",Italian,Cheap,Fort George,11:00,21:00,4.1,1
+877,Nienow Group,Thai,Cheap,Upper Manhattan,8:00,22:00,3.6,1
+878,Boyer and Sons,Thai,Moderate,Inwood,10:00,19:00,3.8,1
+879,Emard LLC,Japanese,Expensive,Chelsea,8:00,21:00,4.4,1
+880,Powlowski-Luettgen,Korean,Cheap,Inwood,8:00,20:00,4.7,0
+881,Gerlach LLC,Mexican,Cheap,Fort George,9:00,22:00,4.9,0
+882,"Reichel, Abshire and Schinner",Spanish,Cheap,Upper Manhattan,10:00,22:00,4.7,0
+883,"Kshlerin, Windler and Gaylord",Seafood,Moderate,Upper Manhattan,9:00,22:00,4.5,1
+884,Mayert-Herzog,Seafood,Cheap,Marble Hill,7:00,18:00,3.8,0
+885,Runte-Leffler,Seafood,Expensive,Chelsea,9:00,20:00,2.3,0
+886,"Nicolas, Berge and Simonis",Thai,Moderate,Inwood,7:00,21:00,2.8,0
+887,Hackett Inc,Seafood,Moderate,Marble Hill,7:00,22:00,4.7,1
+888,Zemlak-Raynor,Mexican,Moderate,Marble Hill,9:00,21:00,4.6,0
+889,Harris-Kuhic,Carribean,Expensive,Little Italy,10:00,20:00,4.4,0
+890,"Larson, Blick and Denesik",Carribean,Cheap,Little Italy,9:00,18:00,2.8,0
+891,Hudson Group,Carribean,Moderate,Chelsea,9:00,20:00,4.7,0
+892,"Barrows, Blanda and Nitzsche",Japanese,Cheap,Inwood,10:00,19:00,3.6,0
+893,Schiller Inc,Italian,Cheap,Times Square,8:00,18:00,4.4,1
+894,Kuhic Group,Chinese,Expensive,Inwood,10:00,20:00,3.1,0
+895,Brakus-Muller,Vegetarian,Expensive,Little Italy,8:00,21:00,3.4,0
+896,Konopelski-Luettgen,Spanish,Cheap,Fort George,9:00,21:00,2.8,1
+897,O'Connell LLC,Korean,Cheap,Inwood,10:00,20:00,4.8,0
+898,"Kris, Weissnat and Bernhard",Spanish,Cheap,Inwood,7:00,21:00,5.0,0
+899,West-Douglas,Vegetarian,Moderate,Marble Hill,7:00,21:00,3.1,1
+900,King-Ziemann,Seafood,Expensive,Inwood,7:00,18:00,2.8,0
+901,"Rogahn, Kertzmann and Cormier",Thai,Expensive,Upper Manhattan,11:00,21:00,3.9,0
+902,Rowe-Lakin,Italian,Cheap,West Harlem,7:00,18:00,1.7,0
+903,Jakubowski-Lakin,Carribean,Moderate,Upper Manhattan,7:00,22:00,4.2,0
+904,"Zulauf, Ziemann and Lind",Carribean,Expensive,Times Square,7:00,18:00,1.0,0
+905,"Johnson, Bartoletti and Russel",Spanish,Expensive,Upper Manhattan,7:00,20:00,3.7,0
+906,Hirthe and Sons,Mexican,Expensive,Upper Manhattan,11:00,18:00,1.5,0
+907,Ward LLC,Mexican,Cheap,Upper Manhattan,10:00,19:00,1.6,1
+908,Schmeler Group,Italian,Expensive,Upper Manhattan,10:00,18:00,2.3,1
+909,Gulgowski Group,Seafood,Expensive,West Harlem,8:00,22:00,2.9,1
+910,Hirthe Inc,Chinese,Cheap,Inwood,10:00,20:00,2.0,0
+911,"Hane, Kuhic and Larson",Italian,Cheap,Chelsea,8:00,20:00,3.3,1
+912,Crooks Group,Carribean,Expensive,Times Square,8:00,21:00,3.1,0
+913,Tremblay Group,Thai,Expensive,Inwood,9:00,21:00,1.6,0
+914,King Inc,Seafood,Cheap,Marble Hill,8:00,18:00,3.3,1
+915,Bernier Group,Japanese,Expensive,Inwood,8:00,22:00,4.1,0
+916,Fadel Group,Korean,Moderate,West Harlem,11:00,20:00,1.3,0
+917,Gerhold-Hilll,Korean,Cheap,Koreatown,9:00,20:00,4.5,1
+918,"Mosciski, Gibson and Lebsack",Japanese,Moderate,Chelsea,11:00,22:00,4.4,1
+919,"Wunsch, Littel and Hagenes",Carribean,Cheap,West Harlem,7:00,22:00,2.0,1
+920,Dach and Sons,Japanese,Cheap,Marble Hill,11:00,21:00,2.4,1
+921,Lind LLC,Korean,Moderate,West Harlem,7:00,21:00,3.7,0
+922,"Abernathy, Tromp and Moore",Vegetarian,Moderate,Fort George,9:00,19:00,4.0,0
+923,Paucek-Rolfson,Korean,Moderate,Times Square,8:00,21:00,4.4,0
+924,"Littel, Doyle and Wiegand",Seafood,Cheap,Inwood,9:00,22:00,3.2,0
+925,"Barton, Hackett and Denesik",Vegetarian,Moderate,Koreatown,10:00,20:00,1.4,1
+926,Thompson-Cummings,Mexican,Moderate,Marble Hill,7:00,18:00,2.3,0
+927,Padberg and Sons,Spanish,Expensive,Fort George,7:00,20:00,1.5,1
+928,Carter Inc,Japanese,Expensive,Koreatown,9:00,21:00,3.3,1
+929,Mante LLC,Vegetarian,Cheap,Marble Hill,8:00,21:00,4.6,0
+930,Kautzer Group,Seafood,Cheap,Marble Hill,9:00,21:00,1.9,0
+931,Lubowitz and Sons,Vegetarian,Expensive,West Harlem,9:00,21:00,1.9,1
+932,"Harris, Leannon and Herman",Thai,Moderate,Times Square,7:00,19:00,1.2,1
+933,"Jones, Hagenes and West",Thai,Cheap,Chelsea,9:00,22:00,2.0,1
+934,Nader Inc,Thai,Expensive,West Harlem,10:00,21:00,2.4,0
+935,McKenzie-Mohr,Thai,Cheap,West Harlem,7:00,21:00,4.7,0
+936,Anderson Group,Carribean,Expensive,Koreatown,7:00,20:00,1.6,1
+937,"Schultz, Rippin and Hyatt",Chinese,Moderate,Koreatown,11:00,20:00,3.1,0
+938,"O'Connell, Reichert and Mayer",Japanese,Cheap,Fort George,7:00,19:00,3.1,0
+939,Metz-Berge,Japanese,Moderate,West Harlem,7:00,21:00,3.3,1
+940,"Goodwin, Hilpert and Lueilwitz",Italian,Moderate,Marble Hill,8:00,19:00,2.3,1
+941,Feeney-Barton,Italian,Cheap,Little Italy,9:00,18:00,2.1,1
+942,"Hoeger, Thiel and Brown",Italian,Moderate,Inwood,7:00,21:00,2.0,1
+943,Mante-Schneider,Italian,Cheap,Times Square,10:00,18:00,2.6,1
+944,Witting Group,Seafood,Moderate,West Harlem,11:00,18:00,3.8,0
+945,Grady-Bogisich,Spanish,Moderate,Koreatown,11:00,22:00,3.6,0
+946,Trantow LLC,Seafood,Moderate,Chelsea,9:00,22:00,2.2,0
+947,Cremin LLC,Seafood,Moderate,Koreatown,10:00,18:00,3.2,0
+948,Collier LLC,Chinese,Moderate,Little Italy,9:00,20:00,1.5,0
+949,Paucek LLC,Thai,Cheap,Koreatown,9:00,18:00,1.7,0
+950,Smith Group,Vegetarian,Expensive,West Harlem,8:00,22:00,4.3,1
+951,"Kuvalis, Cronin and Smith",Japanese,Cheap,West Harlem,11:00,21:00,1.5,1
+952,Zboncak-Baumbach,Korean,Cheap,Inwood,10:00,22:00,3.0,0
+953,"Medhurst, Cummerata and Boyle",Spanish,Moderate,West Harlem,9:00,22:00,2.0,0
+954,Skiles-VonRueden,Vegetarian,Expensive,Inwood,11:00,22:00,2.7,1
+955,Weber LLC,Seafood,Moderate,Marble Hill,8:00,20:00,3.8,1
+956,Labadie-Bartoletti,Vegetarian,Cheap,Koreatown,10:00,21:00,2.6,1
+957,Swift-Cole,Japanese,Cheap,Marble Hill,10:00,22:00,1.3,0
+958,"Mann, Kohler and Rutherford",Mexican,Moderate,Marble Hill,9:00,18:00,1.9,0
+959,Kris Group,Thai,Cheap,Koreatown,11:00,18:00,2.8,0
+960,"Lang, Howe and West",Chinese,Moderate,Marble Hill,9:00,21:00,4.0,0
+961,Brakus Inc,Korean,Expensive,Fort George,9:00,20:00,4.6,1
+962,"Marvin, Bradtke and Mills",Carribean,Expensive,Chelsea,11:00,18:00,3.0,1
+963,Haley-Murazik,Mexican,Cheap,West Harlem,10:00,20:00,2.6,0
+964,Kuhic-Bahringer,Italian,Cheap,Upper Manhattan,9:00,20:00,2.7,1
+965,West-Langosh,Vegetarian,Moderate,Inwood,11:00,21:00,2.2,0
+966,Dickens Group,Thai,Moderate,Little Italy,11:00,20:00,2.0,0
+967,Rolfson LLC,Vegetarian,Moderate,Upper Manhattan,7:00,19:00,2.0,1
+968,"Hartmann, Rolfson and Cassin",Korean,Moderate,Chelsea,11:00,21:00,4.9,1
+969,"Marquardt, Daugherty and Abbott",Chinese,Expensive,Times Square,10:00,18:00,2.7,0
+970,"O'Kon, Emmerich and Swaniawski",Japanese,Cheap,Upper Manhattan,9:00,21:00,2.6,1
+971,"Bogan, Stoltenberg and Wyman",Thai,Cheap,Times Square,8:00,20:00,2.2,1
+972,"Effertz, Krajcik and Kris",Seafood,Moderate,Chelsea,7:00,18:00,1.1,1
+973,Murazik-Medhurst,Japanese,Expensive,West Harlem,10:00,21:00,1.5,0
+974,Ondricka Inc,Italian,Moderate,Little Italy,8:00,21:00,3.6,0
+975,"Beier, Bradtke and Rempel",Japanese,Moderate,Little Italy,11:00,18:00,1.6,1
+976,Bosco-Jast,Thai,Cheap,Upper Manhattan,9:00,21:00,2.2,1
+977,Fritsch-Padberg,Seafood,Expensive,Chelsea,7:00,19:00,2.7,1
+978,McLaughlin-Kerluke,Thai,Expensive,Chelsea,9:00,20:00,1.6,0
+979,VonRueden and Sons,Mexican,Moderate,Little Italy,7:00,19:00,3.4,0
+980,Schmitt Group,Thai,Cheap,Upper Manhattan,7:00,18:00,2.9,0
+981,Labadie-Satterfield,Chinese,Moderate,West Harlem,11:00,18:00,2.8,0
+982,Abernathy-Wuckert,Korean,Cheap,Times Square,11:00,18:00,2.4,1
+983,"Vandervort, Conroy and Watsica",Korean,Expensive,Inwood,7:00,21:00,4.5,0
+984,Wilkinson Inc,Italian,Moderate,Upper Manhattan,10:00,20:00,1.9,1
+985,Lockman and Sons,Korean,Expensive,West Harlem,10:00,22:00,3.8,0
+986,Rempel Inc,Mexican,Moderate,Inwood,8:00,18:00,3.6,0
+987,"Barrows, Connelly and Denesik",Spanish,Moderate,Chelsea,8:00,18:00,5.0,0
+988,Leannon-Murphy,Spanish,Expensive,West Harlem,9:00,18:00,4.3,1
+989,Trantow Inc,Mexican,Expensive,Marble Hill,8:00,22:00,4.0,1
+990,"Renner, Simonis and Lemke",Chinese,Moderate,Fort George,7:00,18:00,4.1,0
+991,"Hilll, Ankunding and Morissette",Thai,Moderate,Fort George,7:00,21:00,2.5,1
+992,Stehr-Goldner,Thai,Cheap,Koreatown,8:00,22:00,2.7,1
+993,Quigley-Metz,Mexican,Cheap,Times Square,9:00,19:00,1.2,0
+994,Moore-Emmerich,Italian,Moderate,Upper Manhattan,11:00,20:00,1.2,0
+995,"Rogahn, Wisoky and Green",Vegetarian,Moderate,Upper Manhattan,8:00,22:00,2.3,1
+996,Ledner LLC,Italian,Cheap,Little Italy,10:00,21:00,2.9,1
+997,Bruen-Steuber,Chinese,Moderate,Chelsea,9:00,22:00,3.6,0
+998,"Kovacek, Kulas and Lowe",Korean,Cheap,Koreatown,7:00,20:00,2.6,0
+999,"Klocko, Bahringer and Zboncak",Seafood,Moderate,Inwood,8:00,19:00,3.6,0
+1000,"Reichel, Howell and Schamberger",Korean,Expensive,Inwood,7:00,19:00,1.1,0
